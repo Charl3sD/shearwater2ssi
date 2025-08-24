@@ -26,33 +26,14 @@ A Python tool that extracts dive information from Shearwater database files and 
 
 1. Clone or download this repository
 2. Install the required Python packages
-3. Obtain the `divesites.json` file (see below)
-
-## Getting Dive Site Data
-
-The SSI dive sites data can be obtained in two ways:
-
-### Option 1: Direct Download
-Visit https://www.divessi.com/en/locator/divesites and export the dive sites for your region.
-
-### Option 2: API Request
-Make a POST request to `https://www.divessi.com/api/locationServices.php` with the following form data:
-
-```
-------WebKitFormBoundaryXPrNwbBxLUX96frW
-Content-Disposition: form-data; name="request"
-
-{"type":"BOUNDS_CHANGED","filter":{"targets":["DiveSites"],"geoBounds":{"south":11.876243280094853,"west":-68.54084456467353,"north":12.502437021293536,"east":-67.85007918381416},"viewportCenter":{"lat":12.189524945643287,"lng":-68.19546187424385}}}
-------WebKitFormBoundaryXPrNwbBxLUX96frW--
-```
-
-Adjust the coordinates in `geoBounds` and `viewportCenter` to match your diving region.
+3. Add dive site JSON files to `ssi_dive_sites/` directory (see directory README for details)
 
 ## Usage
 
 1. **Export your Shearwater dive data**:
    - Open the Shearwater Cloud app
    - Export your dive log as a `.db` file
+   - Place the file in `shearwater_databases/` folder
 
 2. **Run the application**:
    ```bash
@@ -60,29 +41,18 @@ Adjust the coordinates in `geoBounds` and `viewportCenter` to match your diving 
    ```
 
 3. **Configure your dives**:
-   - Click "Select Shearwater DB File" and choose your exported `.db` file
-   - Enter your SSI user information (name and user ID)
-   - Select the dives you want to convert
-   - For each selected dive, choose the appropriate SSI dive site from the dropdown
-   - Set the entry type (Shore or Boat) for each dive
+   - The latest database will be auto-loaded from `shearwater_databases/`
+   - Fill in buddy information (name and SSI ID) for the QR codes
+   - Select dives from the list
+   - Choose region and dive site from the dropdowns
+   - Set entry type (Shore/Boat)
    - Click "Apply to Selected" to update multiple dives at once
 
-4. **Generate QR codes**:
+4. **Generate and use QR codes**:
    - Click "Generate QR Codes"
-   - QR code images will be saved in a `ssi_dives_qr_codes` folder
-   - Each QR code is named with the dive's date and time
-   - Generated QR codes are automatically displayed in the preview pane
-
-5. **View QR codes in the application**:
-   - Generated dive QR codes are automatically displayed after generation
-   - Use the radio buttons to switch between "Dive QR Codes" and "Validation QR Codes"
-   - Click "Load Validations" to load QR codes from the `ssi_validations_qr_codes` folder
-   - Use Previous/Next buttons to navigate through multiple QR codes
-
-6. **Import to SSI app**:
+   - QR codes are saved to `ssi_dives_qr_codes/` and displayed in the preview
    - Open the SSI app on your mobile device
-   - Navigate to the QR code import section
-   - Scan the generated QR codes directly from the screen or from saved files
+   - Scan the QR codes to import dives
 
 ## QR Code Format
 
@@ -150,10 +120,20 @@ qrencode -t UTF8 "center;750405;name:Infinity Divers, Roatan"
 
 Place generated validation QR codes in the `ssi_validations_qr_codes` folder to view them in the application.
 
+## Directory Structure
+
+- `shearwater_databases/` - Place your Shearwater .db exports here
+- `ssi_dive_sites/` - JSON files with dive sites for different regions
+- `ssi_dives_qr_codes/` - Generated QR codes for dives (auto-created)
+- `ssi_validations_qr_codes/` - Training center validation QR codes
+
+Each directory contains its own README with detailed instructions.
+
 ## Troubleshooting
 
-- **No dive sites available**: Ensure `divesites.json` is in the same directory as the script
-- **QR codes not scanning**: Verify your SSI user ID is correct
+- **No dive sites available**: Ensure you have region JSON files in `ssi_dive_sites/`
+- **No databases found**: Place .db files in `shearwater_databases/`
+- **QR codes not scanning**: Verify buddy's SSI ID is correct
 - **Missing dive data**: Some Shearwater exports may have incomplete data; the tool will use default values where necessary
 
 ## License

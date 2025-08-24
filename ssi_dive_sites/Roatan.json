@@ -1,0 +1,2633 @@
+{
+    "stats": {
+        "total": 47
+    },
+    "result": {
+        "type": "collection",
+        "ident": "mixed",
+        "elements": [
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238728",
+                        "name": "Dolphins Den",
+                        "lat": "16.4143",
+                        "lng": "-86.3863",
+                        "loggedDives": "118",
+                        "averageRating": "5",
+                        "loggedUsers": "107",
+                        "averageMaxDepth": "14",
+                        "averageDivetime": "59",
+                        "averageVis": "20",
+                        "distanceToCenter": "2.43",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df27472acc9b_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df27472acc9b_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df27472acc9b_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274920909b_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274920909b_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274920909b_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274a9186d0_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274a9186d0_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274a9186d0_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274d1da38e_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274d1da38e_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df274d1da38e_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2751ea2e7b_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2751ea2e7b_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2751ea2e7b_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df275545b8e5_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df275545b8e5_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df275545b8e5_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2757c2776b_238728_801277.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2757c2776b_238728_801277.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/87\/28\/images\/5df2757c2776b_238728_801277.png\/2000.jpg",
+                                    "copyright": "Diventures, 65810 Springfield"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/dolphins-den-honduras-238728"
+                    },
+                    "text": {
+                        "description1": "A shallow cave\/cavern dive at 5-12m accessible from either inside or outside the reef. Torches are advisable but an experienced diver can work through with the natural light",
+                        "description2": "Tons of Giant Anemone\u2019s on the inner reef side of this site. If you are lucky Glassy Sweepers and Silversides in the cave, and a healthy and vibrant top reef on the outside of the cave."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238728",
+                        "description2": "site_descr2_238728"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "21771",
+                        "name": "Prince Albert, wreck",
+                        "lat": "16.3575",
+                        "lng": "-86.4330",
+                        "loggedDives": "2118",
+                        "averageRating": "4",
+                        "loggedUsers": "683",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "44",
+                        "averageVis": "14",
+                        "distanceToCenter": "10.42",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            79,
+                            93,
+                            127,
+                            132,
+                            137,
+                            150
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/prince-albert-wreck-ccv-resort-alberts-honduras-21771"
+                    },
+                    "text": {
+                        "description1": "Along the south shore of Roatan lies the wreck of the Prince Albert. The wreck sits upright and intact in 65 feet of water in a sand channel between the lagoon and the outer reef, not far from the mangroves. Mangroves act as nurseries for juvenile fish and Prince Albert\u2019s proximity to them has contributed to th",
+                        "description2": "Along the south shore of Roatan lies the wreck of the Prince Albert. The wreck sits upright and intact in 65 feet of water in a sand channel between the lagoon and the outer reef, not f"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_21771",
+                        "description2": "site_descr2_21771"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238778",
+                        "name": "Mr. Bud Wreck",
+                        "lat": "16.3484",
+                        "lng": "-86.4461",
+                        "loggedDives": "1137",
+                        "averageRating": "4",
+                        "loggedUsers": "766",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "52",
+                        "averageVis": "18",
+                        "distanceToCenter": "12.11",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            79,
+                            81,
+                            98,
+                            116,
+                            121,
+                            126,
+                            132,
+                            150,
+                            151
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mr-bud-wreck-buds-budd-me-honduras-238778"
+                    },
+                    "text": {
+                        "description1": "Mr. Bud is a shallow wreck in Roatan, Honduras. We take an annual trip and always go to this site. It sits upright and is easy to swim through since it is totally open.",
+                        "description2": "There is a ball of silversides in the main room. Last time there was a huge Moray eel in the corner of the room also."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238778",
+                        "description2": "site_descr2_238778"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "659743",
+                        "name": "Malu\u2019s Mermaid Retreat",
+                        "lat": "16.3481",
+                        "lng": "-86.4470",
+                        "loggedDives": "40",
+                        "averageRating": "5",
+                        "loggedUsers": "22",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "53",
+                        "averageVis": "22",
+                        "distanceToCenter": "12.2",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "0",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/malus-mermaid-retreat-honduras-659743"
+                    },
+                    "text": {
+                        "description1": "Roatan is characterized by its abundance in Barrier Reefs. This type of coral reef usually runs parallel to the shoreline and divers can experience barrier reefs all around the island of Roatan. More info to come.",
+                        "description2": "Large variety of corals, hard and soft: many sea fans, venus and wide-mesh; sea plumes; corky sea fingers etc. Many small fish. The occasional green eels out in the open etc."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_659743",
+                        "description2": "site_descr2_659743"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "295009",
+                        "name": "Mary\u2019s Place",
+                        "lat": "16.3377",
+                        "lng": "-86.4486",
+                        "loggedDives": "1358",
+                        "averageRating": "5",
+                        "loggedUsers": "834",
+                        "averageMaxDepth": "24",
+                        "averageDivetime": "49",
+                        "averageVis": "20",
+                        "distanceToCenter": "13.17",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            93,
+                            98,
+                            119,
+                            122,
+                            124,
+                            148
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/marys-place-honduras-295009"
+                    },
+                    "text": {
+                        "description1": "Mary\u2019s Place is considered to be among the best dive sites on Roatan. Mary\u2019s Place is full of coral and swim-throughs and is teeming with life which won\u2019t disappoint any diver.",
+                        "description2": "Rich in soft coral, huge blue fans, green and gold sea rods, barrel and tube coral makes a wonderful site. Not to mention rays, turtles, grouper, and lots more."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_295009",
+                        "description2": "site_descr2_295009"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "522416",
+                        "name": "Emma\u2019s Plummet",
+                        "lat": "16.3713",
+                        "lng": "-86.4984",
+                        "loggedDives": "17",
+                        "averageRating": "5",
+                        "loggedUsers": "15",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "58",
+                        "averageVis": "27",
+                        "distanceToCenter": "15.22",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/emmas-plummet-honduras-522416"
+                    },
+                    "text": {
+                        "description1": "Emma\u2019s plummet is a beautiful dive site with a buoy at 20\u2019. Beginners and experts can enjoy this dive site with depths from 20\u2019 to 120\u2019. Explore the reef high or low.",
+                        "description2": "Enjoy the pristine water while exploring huge coral formations and every species of fish you can imagine. Large barrel sponges dot the terrain everywhere."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_522416",
+                        "description2": "site_descr2_522416"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238686",
+                        "name": "Palmetto Keyhole",
+                        "lat": "16.3693",
+                        "lng": "-86.5027",
+                        "loggedDives": "184",
+                        "averageRating": "4",
+                        "loggedUsers": "158",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "52",
+                        "averageVis": "20",
+                        "distanceToCenter": "15.73",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/palmetto-keyhole-honduras-238686"
+                    },
+                    "text": {
+                        "description1": "Characteristic of channels you\u2019ll find on Roatan, Key Hole offers you an impressive display of topography with overhangs to explore. You will begin your dive at about 30ft and the reef walls guide you into the channel.",
+                        "description2": "We expect to find butterflyfish, fan worms, small leaf hanging vines and star coral. Soft corals such as plumes and rods as well as schools of black durgon and yellowtail snapper are also visible."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238686",
+                        "description2": "site_descr2_238686"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "522415",
+                        "name": "Alaina\u2019s Sandy Bottom",
+                        "lat": "16.3699",
+                        "lng": "-86.5057",
+                        "loggedDives": "15",
+                        "averageRating": "5",
+                        "loggedUsers": "13",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "55",
+                        "averageVis": "0",
+                        "distanceToCenter": "15.99",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/alainas-sandy-bottom-honduras-522415"
+                    },
+                    "text": {
+                        "description1": "Easy access from either channel the dive site is buoy sits at 25\u2019 and drops to a beautiful sandy bottom. Explore numerous swim throughs and huge coral formations.",
+                        "description2": "Enormous fan coral and fans dot the terrain with beautiful life everywhere. Explore every inch of the site and take your time."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_522415",
+                        "description2": "site_descr2_522415"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "659758",
+                        "name": "Maccallum Girls",
+                        "lat": "16.3298",
+                        "lng": "-86.4807",
+                        "loggedDives": "20",
+                        "averageRating": "5",
+                        "loggedUsers": "20",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "53",
+                        "averageVis": "8",
+                        "distanceToCenter": "16.19",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "0",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/maccallum-girls-honduras-659758"
+                    },
+                    "text": {
+                        "description1": "Roatan is characterized by its abundance in Barrier Reefs. This type of coral reef usually runs parallel to the shoreline and divers can experience barrier reefs all around the island of Roatan. More info to come.",
+                        "description2": "Large variety of corals, hard and soft: many sea fans, venus and wide-mesh; sea plumes; corky sea fingers etc. Many small fish. The occasional green eels out in the open etc."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_659758",
+                        "description2": "site_descr2_659758"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238685",
+                        "name": "Land of the Giants",
+                        "lat": "16.3685",
+                        "lng": "-86.5086",
+                        "loggedDives": "163",
+                        "averageRating": "5",
+                        "loggedUsers": "124",
+                        "averageMaxDepth": "24",
+                        "averageDivetime": "48",
+                        "averageVis": "20",
+                        "distanceToCenter": "16.34",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/land-of-the-giants-honduras-238685"
+                    },
+                    "text": {
+                        "description1": "Shallow top Reef at 5m, steep wall with lots of cracks and canyons to the east. Slightly sloping sandy bottom starting at about 25m and sloping off to 35m+.",
+                        "description2": "Really \u201cbusy\u201c and colorful top reef with mostly soft corals with lots of plumes, rods and whips, lots of grazing reef fish such as tang, grunts, some yellowtail - great to end the dive."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238685",
+                        "description2": "site_descr2_238685"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "468614",
+                        "name": "The Crucible Warfighter Scuba",
+                        "lat": "16.3574",
+                        "lng": "-86.5267",
+                        "loggedDives": "84",
+                        "averageRating": "5",
+                        "loggedUsers": "43",
+                        "averageMaxDepth": "11",
+                        "averageDivetime": "45",
+                        "averageVis": "8",
+                        "distanceToCenter": "18.61",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/the-crucible-warfighter-scuba-honduras-468614"
+                    },
+                    "text": {
+                        "description1": "Shallow sea grass and sand area inside the reef. Obstacle course setup for perfect buoyancy course work and beginner friendly. Perfect place for Open Water skills with the added benefit of an underwater obstacle course.",
+                        "description2": "Lots of sea stars, fireworms, lobster and sometimes dolphins. Open area, some currents can pick up and decrease visibility quickly."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_468614",
+                        "description2": "site_descr2_468614"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "263045",
+                        "name": "Dolphin Den",
+                        "lat": "16.3298",
+                        "lng": "-86.5300",
+                        "loggedDives": "74",
+                        "averageRating": "5",
+                        "loggedUsers": "72",
+                        "averageMaxDepth": "15",
+                        "averageDivetime": "56",
+                        "averageVis": "19",
+                        "distanceToCenter": "20.39",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            100,
+                            123,
+                            144,
+                            149
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/dolphin-den-honduras-263045"
+                    },
+                    "text": {
+                        "description1": "Dolphin\u2019s Den is situated on the northern side of the island. This site is normally less crowded, but equally beautiful and filled with amazing corals.",
+                        "description2": "The coral canyons of Dolphin Den\u2019s are quite similar to that of Mary\u2019s Place. You will come across snapping shrimp, slipper lobster, and anemones playing around."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_263045",
+                        "description2": "site_descr2_263045"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238670",
+                        "name": "Odyssey (Wreck)",
+                        "lat": "16.3523",
+                        "lng": "-86.5443",
+                        "loggedDives": "1421",
+                        "averageRating": "5",
+                        "loggedUsers": "1177",
+                        "averageMaxDepth": "32",
+                        "averageDivetime": "42",
+                        "averageVis": "22",
+                        "distanceToCenter": "20.55",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1730943223_238670_170802.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1730943223_238670_170802.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1730943223_238670_170802.png\/2000.jpg",
+                                    "copyright": "Bret S. (#170802)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470345_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470345_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470345_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470362_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470362_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470362_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470382_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470382_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470382_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470403_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470403_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470403_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470430_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470430_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470430_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470450_238670_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470450_238670_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/70\/images\/1755470450_238670_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/odyssey-wreck-honduras-238670"
+                    },
+                    "text": {
+                        "description1": "110 feet under the surface of Roatan you can find the Odyssey Wreck. 300 feet long, 50 wide and, 85 feet tall, this wreck will impress. Sunk for divers in 2002, the wreck was donated by Hydes of Hybour.",
+                        "description2": "Large grouper, barracuda, tuna and sharks like the reef and grey sharks have been spotted around the wreck."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238670",
+                        "description2": "site_descr2_238670"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238813",
+                        "name": "Cara a Cara",
+                        "lat": "16.2874",
+                        "lng": "-86.5201",
+                        "loggedDives": "349",
+                        "averageRating": "5",
+                        "loggedUsers": "320",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "43",
+                        "averageVis": "22",
+                        "distanceToCenter": "22.49",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            55,
+                            92,
+                            98,
+                            100,
+                            116,
+                            117,
+                            124,
+                            127,
+                            132,
+                            144,
+                            148,
+                            149,
+                            150,
+                            153,
+                            155,
+                            156,
+                            162,
+                            275,
+                            288
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/cara-a-caracara-lake-apoyo-nicaragua-point-requin-honduras-238813"
+                    },
+                    "text": {
+                        "description1": "\u201cCara a Cara Point\u201d is a dive located on the south side of the island of Roatan, reachable in about 20 minutes by bus and about 15 minutes by boat from a SSI center. It is strongly recommended to all divers to do at least one acclimation dive before!",
+                        "description2": "The dive site is located approximately 2 nautical miles off the coast of Roatan, therefore sea conditions may be rough."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238813",
+                        "description2": "site_descr2_238813"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238644",
+                        "name": "Bear\u2019s Den",
+                        "lat": "16.3368",
+                        "lng": "-86.5689",
+                        "loggedDives": "955",
+                        "averageRating": "5",
+                        "loggedUsers": "713",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "51",
+                        "averageVis": "22",
+                        "distanceToCenter": "23.66",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "7",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            141,
+                            144,
+                            148,
+                            149
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/bears-den-honduras-238644"
+                    },
+                    "text": {
+                        "description1": "Bear\u2019s Den gets its name from a large underwater cave and tunnel found here. The cave is a few minutes east of the mooring at about 40ft and is large enough to accommodate several divers.",
+                        "description2": "A variety of black coral is found in deeper water and sea whips and giant sponges cover the site."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238644",
+                        "description2": "site_descr2_238644"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "143934",
+                        "name": "Anthony\u2019s Key Resort House Reef",
+                        "lat": "16.3288",
+                        "lng": "-86.5734",
+                        "loggedDives": "2297",
+                        "averageRating": "4",
+                        "loggedUsers": "679",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "47",
+                        "averageVis": "21",
+                        "distanceToCenter": "24.48",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/anthonys-key-resort-house-reef-honduras-143934"
+                    },
+                    "text": {
+                        "description1": "Welcome to Front Porch, the house reef of Anthony\u2019s Key Resort! Whether you\u2019re a diver or a snorkeler, this shore-accessible site is the perfect place to explore Meso-American Barrier Reef, which gently hugs our resort",
+                        "description2": "You can see eels, grouper, and octopus in the reef. You can also see schools of blue tangs, parrotfish, angelfish, damselfish, sea fans, star coral, and brain coral."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_143934",
+                        "description2": "site_descr2_143934"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "78999",
+                        "name": "Spooky Channel ",
+                        "lat": "16.3294",
+                        "lng": "-86.5751",
+                        "loggedDives": "701",
+                        "averageRating": "5",
+                        "loggedUsers": "574",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "52",
+                        "averageVis": "18",
+                        "distanceToCenter": "24.61",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/spooky-channel-honduras-78999"
+                    },
+                    "text": {
+                        "description1": "An interesting dive site that links the inner lagoon to the outer reef. This beautiful gorge provides underwater canyons for all to enjoy.",
+                        "description2": "Starfish and Lobster, parrot fish, angelfish and groupers are commonly found here. Coral covered canyons are a site worth visiting."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_78999",
+                        "description2": "site_descr2_78999"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238636",
+                        "name": "El Aguila (Wreck)",
+                        "lat": "16.3275",
+                        "lng": "-86.5790",
+                        "loggedDives": "2632",
+                        "averageRating": "5",
+                        "loggedUsers": "2100",
+                        "averageMaxDepth": "31",
+                        "averageDivetime": "44",
+                        "averageVis": "22",
+                        "distanceToCenter": "25.08",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753472988_238636_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753472988_238636_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753472988_238636_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473006_238636_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473006_238636_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473006_238636_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473022_238636_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473022_238636_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473022_238636_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473043_238636_3221830.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473043_238636_3221830.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/86\/36\/images\/1753473043_238636_3221830.png\/2000.jpg",
+                                    "copyright": "Gary J. (#3221830)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "6",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            100,
+                            115,
+                            116,
+                            124,
+                            126,
+                            148,
+                            153,
+                            155,
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/el-aguila-wreck-honduras-238636"
+                    },
+                    "text": {
+                        "description1": "El Aguila (The Eagle) is Roatan\u2019s most popular wreck dive and is located just off Baileys Key and Anthony\u2019s Key Resort. It was a concrete freighter and sunk off Utila. The wreck was raised, stripped out for diving, and then sunk again by a consortium of dive shops on the island in 1997.",
+                        "description2": "Large grouper, barracuda, tuna, and sharks like the reef and grey sharks can be spotted around the wreck."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238636",
+                        "description2": "site_descr2_238636"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238634",
+                        "name": "Pillar Coral",
+                        "lat": "16.3263",
+                        "lng": "-86.5809",
+                        "loggedDives": "754",
+                        "averageRating": "4",
+                        "loggedUsers": "636",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "51",
+                        "averageVis": "21",
+                        "distanceToCenter": "25.32",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            147
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/pillar-coral-honduras-238634"
+                    },
+                    "text": {
+                        "description1": "Another distinctive dive site, Pillar, as its name suggests, is a coral spire just off of the reef wall. The mooring is on the top reef at 35 ft \/ 10 m, but a very short swim takes you over the top of the spire which tops out at around 90 ft \/ 27 m. This site descends well beyond the recreational limits so watch your depth closely.",
+                        "description2": "Expect to see lots of coral, sea fans, sponges, butterfly fish, angel fish, snapper, sweetlips, and some barracuda."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238634",
+                        "description2": "site_descr2_238634"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238631",
+                        "name": "Green Outhouse",
+                        "lat": "16.3245",
+                        "lng": "-86.5821",
+                        "loggedDives": "1430",
+                        "averageRating": "4",
+                        "loggedUsers": "1101",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "50",
+                        "averageVis": "23",
+                        "distanceToCenter": "25.52",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            45,
+                            55,
+                            56,
+                            81,
+                            92,
+                            97,
+                            98,
+                            100,
+                            108,
+                            121,
+                            150,
+                            151,
+                            152,
+                            153,
+                            155,
+                            156,
+                            275,
+                            288
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/green-outhouse-honduras-238631"
+                    },
+                    "text": {
+                        "description1": "Green Outhouse Wall is a boat accessible salt water dive site, located in Roatan, Honduras. This dive site has an average rating of 4.09 out of 5 from 11 scuba divers. This dive site provides bathrooms and airfills.",
+                        "description2": "Green Outhouse Wall is a amazing dive site. Its suitable for all level of divers, and drift dive is normally recomended."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238631",
+                        "description2": "site_descr2_238631"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238624",
+                        "name": "Gibson Bight",
+                        "lat": "16.3197",
+                        "lng": "-86.5865",
+                        "loggedDives": "836",
+                        "averageRating": "4",
+                        "loggedUsers": "697",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "52",
+                        "averageVis": "22",
+                        "distanceToCenter": "26.19",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/gibson-bight-honduras-238624"
+                    },
+                    "text": {
+                        "description1": "Gibson Bight is a wall dive off the northern shore of Roatan, with a depth range to approximately 90 feet. The mooring is located near a beautiful canyon, which will lead divers directly to the wall when followed.",
+                        "description2": "Spotted Eagle rays, pufferfish, and porcupine fish can be found in the many ravines as well as plenty of fire coral."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238624",
+                        "description2": "site_descr2_238624"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238621",
+                        "name": "Fish Den",
+                        "lat": "16.3173",
+                        "lng": "-86.5887",
+                        "loggedDives": "1096",
+                        "averageRating": "4",
+                        "loggedUsers": "895",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "52",
+                        "averageVis": "22",
+                        "distanceToCenter": "26.52",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            116,
+                            117,
+                            146
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/fish-den-honduras-238621"
+                    },
+                    "text": {
+                        "description1": "Fish Den is another of our favorites. The mooring is set on a pillar of coral which itself is set in a square-shaped cut in the reef wall. The top of the pillar is at about 20 ft \/ 7 m and drops down to about 40 ft \/ 12 m. The square hole in the reef slopes down to 60 ft \/ 18 m as it joins back with the main wall.",
+                        "description2": "You will see lots of sponges, sea fans, small critters like lobsters, crabs, arrow crabs, shrimp, and schooling fish."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238621",
+                        "description2": "site_descr2_238621"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238619",
+                        "name": "Canyon Reef",
+                        "lat": "16.3152",
+                        "lng": "-86.5905",
+                        "loggedDives": "1065",
+                        "averageRating": "5",
+                        "loggedUsers": "866",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "52",
+                        "averageVis": "23",
+                        "distanceToCenter": "26.8",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            115,
+                            124,
+                            127,
+                            141,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/canyon-reef-honduras-238619"
+                    },
+                    "text": {
+                        "description1": "Canyon Reef is near the Mangrove Bight buoy where there are lots of canyons, swim-throughs, and cuts to explore. The wall bottoms out at 55 ft \/ 16 m, so everyone can play here, even with only an open water certification. It is a great dive site for everyone.",
+                        "description2": "Canyon Reef is near the Mangrove Bight buoy where there are lots of canyons, swim-throughs, and cuts to explore. The wall bottoms out at 55 ft \/ 16 m"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238619",
+                        "description2": "site_descr2_238619"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238618",
+                        "name": "Hole In The Wall",
+                        "lat": "16.3138",
+                        "lng": "-86.5918",
+                        "loggedDives": "1034",
+                        "averageRating": "5",
+                        "loggedUsers": "787",
+                        "averageMaxDepth": "27",
+                        "averageDivetime": "53",
+                        "averageVis": "22",
+                        "distanceToCenter": "26.99",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            100,
+                            115,
+                            116,
+                            121,
+                            122,
+                            124,
+                            126,
+                            127,
+                            129,
+                            132,
+                            134,
+                            135,
+                            136,
+                            137,
+                            142,
+                            153,
+                            155,
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/hole-in-the-wall-honduras-238618"
+                    },
+                    "text": {
+                        "description1": "A very unique dive site, Hole in the Wall is West End\u2019s version of Delicate Arch. It is located just to the south\/west of the boat channel at Mangrove Bight. The site that is marked on the Marine Park map is actually the Mangrove Bight buoy; there is no buoy for Hole in the Wall.",
+                        "description2": "The reef here contains lots of life: jawfish, goatfish, peacock flounders, decorator crabs, rays, and occasionally, sharks."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238618",
+                        "description2": "site_descr2_238618"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "235086",
+                        "name": "Half Moon Wall",
+                        "lat": "16.3084",
+                        "lng": "-86.5961",
+                        "loggedDives": "602",
+                        "averageRating": "5",
+                        "loggedUsers": "480",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "51",
+                        "averageVis": "19",
+                        "distanceToCenter": "27.68",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/50\/86\/images\/1725813394_235086_3841614.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/50\/86\/images\/1725813394_235086_3841614.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/23\/50\/86\/images\/1725813394_235086_3841614.png\/2000.jpg",
+                                    "copyright": "Nik H. (#3841614)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/half-moon-wall-honduras-235086"
+                    },
+                    "text": {
+                        "description1": "Located off West End, Half Moon Bay Wall is an easy site to get to and a popular one with local dive centers. The reef begins at 15 feet and drops to 150 feet.",
+                        "description2": "Flamingo tongues, black coral, and orange elephant sponges can be found on the wall. Groupers, Wrasse, and Chromis are easily spotted here."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_235086",
+                        "description2": "site_descr2_235086"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238611",
+                        "name": "Moonlight",
+                        "lat": "16.3055",
+                        "lng": "-86.5974",
+                        "loggedDives": "699",
+                        "averageRating": "5",
+                        "loggedUsers": "553",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "53",
+                        "averageVis": "20",
+                        "distanceToCenter": "27.96",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            100,
+                            112,
+                            116,
+                            121,
+                            122,
+                            126,
+                            127,
+                            130,
+                            131,
+                            132,
+                            135,
+                            136,
+                            137,
+                            153,
+                            155,
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/moonlight-honduras-238611"
+                    },
+                    "text": {
+                        "description1": "Moonlight is a very popular dive site. It is great for diving along the top of the reef. There is also an amazing wall. The sand patches under the mooring lines are great for teaching.",
+                        "description2": "The reef here contains lots of life: jawfish, goatfish, peacock flounders, decorator crabs, rays, and occasionally, sharks."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238611",
+                        "description2": "site_descr2_238611"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238610",
+                        "name": "Lighthouse",
+                        "lat": "16.3047",
+                        "lng": "-86.5977",
+                        "loggedDives": "2340",
+                        "averageRating": "4",
+                        "loggedUsers": "1486",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "48",
+                        "averageVis": "21",
+                        "distanceToCenter": "28.03",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            100,
+                            112,
+                            116,
+                            121,
+                            122,
+                            124,
+                            126,
+                            127,
+                            129,
+                            131,
+                            132,
+                            134,
+                            135,
+                            136,
+                            137,
+                            148,
+                            153,
+                            155,
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/lighthouse-honduras-238610"
+                    },
+                    "text": {
+                        "description1": "The dive site called Lighthouse is a very popular dive. It is a great option for all levels of divers but is often used as a teaching site because of its great sand patches at 15-20 ft \/ 5-6 m.",
+                        "description2": "The reef here contains lots of life: jawfish, goatfish, peacock flounders, decorator crabs, rays, and occasionally, sharks."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238610",
+                        "description2": "site_descr2_238610"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "184807",
+                        "name": "Blue Cave",
+                        "lat": "16.2802",
+                        "lng": "-86.5832",
+                        "loggedDives": "506",
+                        "averageRating": "4",
+                        "loggedUsers": "409",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "55",
+                        "averageVis": "22",
+                        "distanceToCenter": "28.19",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            98,
+                            108,
+                            155,
+                            156,
+                            283
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/blue-cave-honduras-184807"
+                    },
+                    "text": {
+                        "description1": "On the south side on the Island of Roatan, close to the west point, there is this fantastic dive site, starting in shallow clear water close to the rocky shoore.",
+                        "description2": "Barracuda are easy to find and a nice and safe cave is available to visit for almost all divers. Groupers and turtles are also common."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_184807",
+                        "description2": "site_descr2_184807"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238608",
+                        "name": "El Aquario",
+                        "lat": "16.3022",
+                        "lng": "-86.5982",
+                        "loggedDives": "772",
+                        "averageRating": "4",
+                        "loggedUsers": "603",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "52",
+                        "averageVis": "21",
+                        "distanceToCenter": "28.21",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/el-aquario-aquarium-the-reef-spot-honduras-238608"
+                    },
+                    "text": {
+                        "description1": "This is a great pure deep and wall dive and can be done either as a drift dive (make sure you clear the boat channel to Saayas or Lighthouse if heading west\/north) or a stationary dive. Belying its name the mooring is only in about 25 ft \/ 8 m on the top reef, but a short swim to the wall explains the name.",
+                        "description2": "Giant barrel sponges, tube sponges, azure vases, huge plate corals and fans, and other corals are in abundance."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238608",
+                        "description2": "site_descr2_238608"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "689948",
+                        "name": "Deep - Ricardo Montans",
+                        "lat": "16.3023",
+                        "lng": "-86.6010",
+                        "loggedDives": "6",
+                        "averageRating": "5",
+                        "loggedUsers": "6",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "50",
+                        "averageVis": "0",
+                        "distanceToCenter": "28.47",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/deep-ricardo-montans-honduras-689948"
+                    },
+                    "text": {
+                        "description1": "Freediving Caribbean School freediving line. From beginners to experienced pros wanting to go more than 100 meters, this schools dive line has it all!",
+                        "description2": "Beautiful reef and wall at 30 meters. Sharks like hammers and silkys have been seen deep. The reef can be seen on good visibility days from the surface."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_689948",
+                        "description2": "site_descr2_689948"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238602",
+                        "name": "Blue Channel",
+                        "lat": "16.2995",
+                        "lng": "-86.6009",
+                        "loggedDives": "2239",
+                        "averageRating": "5",
+                        "loggedUsers": "1566",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "56",
+                        "averageVis": "20",
+                        "distanceToCenter": "28.61",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "6",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            93,
+                            100,
+                            150,
+                            153,
+                            155
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/blue-channel-honduras-238602"
+                    },
+                    "text": {
+                        "description1": "Blue Channel dive is one of Roatan\u2019s most famous snorkel sites, while at the same time a great dive site. Swim along a wide, shallow channel in the reef and into 20 minutes of tunnels. Finish the dive in the shallow swaying turtle grass.",
+                        "description2": "Expect to discover fireworms, large feather dusters, and lobster along with moray eels. The swim-through makes for an interesting investigation. Home to pipefish and silversides as well."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238602",
+                        "description2": "site_descr2_238602"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238601",
+                        "name": "The Bight",
+                        "lat": "16.2984",
+                        "lng": "-86.6005",
+                        "loggedDives": "400",
+                        "averageRating": "4",
+                        "loggedUsers": "321",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "53",
+                        "averageVis": "24",
+                        "distanceToCenter": "28.64",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            93,
+                            115,
+                            119,
+                            148
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/the-bight-honduras-238601"
+                    },
+                    "text": {
+                        "description1": "The Bight is famous for the huge barrier reef and the variety of marine life. It is a shallow dive with a maximum depth of about 20 meters\/ 80 Ft. Turtles and grouper are common in this area, and this dive site is suitable for beginner divers as well. Visibility is normally around 25 or more meters!",
+                        "description2": "A great place for a relaxing cruise around hunting down smaller creatures and watching the familial\/territorial squabbling\u2019s all over the top reef."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238601",
+                        "description2": "site_descr2_238601"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238600",
+                        "name": "Bikini Bottom",
+                        "lat": "16.2978",
+                        "lng": "-86.6009",
+                        "loggedDives": "1289",
+                        "averageRating": "4",
+                        "loggedUsers": "1011",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "53",
+                        "averageVis": "22",
+                        "distanceToCenter": "28.71",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            100,
+                            112,
+                            115,
+                            116,
+                            121,
+                            122,
+                            124,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            134,
+                            135,
+                            142,
+                            153,
+                            155
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/bikini-bottom-honduras-238600"
+                    },
+                    "text": {
+                        "description1": "Bikini Bottom is a great teaching site or shallow dive site with a nice sand-patch at 15-20 ft \/ 5-6 m, and a really nice top reef that varies in depth to about 40 ft \/ 12 m.",
+                        "description2": "A great place for a relaxing cruise around hunting down smaller creatures and watching the familial\/territorial squabbling\u2019s of the fish all over the top reef."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238600",
+                        "description2": "site_descr2_238600"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238593",
+                        "name": "Turtle Crossing Deep",
+                        "lat": "16.2935",
+                        "lng": "-86.6037",
+                        "loggedDives": "637",
+                        "averageRating": "5",
+                        "loggedUsers": "513",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "54",
+                        "averageVis": "22",
+                        "distanceToCenter": "29.21",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            115,
+                            116,
+                            123,
+                            126,
+                            127,
+                            141
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/turtle-crossing-deep-honduras-238593"
+                    },
+                    "text": {
+                        "description1": "Located between West End and West Bay, Turtle Crossing has coral channels that lead to a drop of to about 120 feet. Mooring on the plateaus between 20 and 40 feet you come upon beautiful coral structures.",
+                        "description2": "The name says it all, this dive site is famous for his huge concentration of sea turtles, as many as 30 turtles have been seen during a single dive. Reef formations and huge sponges are found all over."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238593",
+                        "description2": "site_descr2_238593"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238588",
+                        "name": "Seaquest Shallow",
+                        "lat": "16.2907",
+                        "lng": "-86.6026",
+                        "loggedDives": "1372",
+                        "averageRating": "4",
+                        "loggedUsers": "1015",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "52",
+                        "averageVis": "22",
+                        "distanceToCenter": "29.27",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            119,
+                            124,
+                            141,
+                            144,
+                            148
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/seaquest-shallow-sea-quest-deep-west-end-shalow-ques-honduras-238588"
+                    },
+                    "text": {
+                        "description1": "Seaquest Shallow is a shallow reef starting on a sandy bottom. Follow the sand to the top of the reef, which sits at 18ft. Situated in West End, this is an easy site to reach.",
+                        "description2": "On the top of the reef, you can find large grooved brain and boulder brain coral. Conger eels and flute fish are just some of the marine life to be found."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238588",
+                        "description2": "site_descr2_238588"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "274934",
+                        "name": "Seaquest Deep",
+                        "lat": "16.2905",
+                        "lng": "-86.6034",
+                        "loggedDives": "965",
+                        "averageRating": "4",
+                        "loggedUsers": "763",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "56",
+                        "averageVis": "20",
+                        "distanceToCenter": "29.35",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            119,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/seaquest-deep-honduras-274934"
+                    },
+                    "text": {
+                        "description1": "A popular dive site that is quick to get to. It is one of the more commonly dived sites in Roatan. Sandy bottoms and plenty of life makes it well worth a dive.",
+                        "description2": "Come view beautiful Yellow Head Jawfish, pipefish, juvenile Trunk Fish and blennies. Also find Southern Stingrays buried in the sand."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_274934",
+                        "description2": "site_descr2_274934"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238580",
+                        "name": "Pubudus Playground",
+                        "lat": "16.2847",
+                        "lng": "-86.6033",
+                        "loggedDives": "121",
+                        "averageRating": "4",
+                        "loggedUsers": "106",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "56",
+                        "averageVis": "22",
+                        "distanceToCenter": "29.68",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/pubudus-playground-honduras-238580"
+                    },
+                    "text": {
+                        "description1": "Starting at a 10 meters\/ 30ft sand patch, this dive site is a perfect place to practice navigation as it is located bit further away from the wall\/drop off.",
+                        "description2": "Great place to look for macro life in the sand. It has interesting canyon formations leading to the wall which is framed by giant barrel sponges and beautiful tubular sponges."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238580",
+                        "description2": "site_descr2_238580"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238579",
+                        "name": "Tabyanas",
+                        "lat": "16.2842",
+                        "lng": "-86.6045",
+                        "loggedDives": "565",
+                        "averageRating": "4",
+                        "loggedUsers": "462",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "54",
+                        "averageVis": "20",
+                        "distanceToCenter": "29.82",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            103,
+                            156,
+                            283
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/tabyanas-honduras-238579"
+                    },
+                    "text": {
+                        "description1": "Tabyana, aka \u201cHerbie\u2019s Fantasy or Place\u201c is a salt water dive site, located in West Bay, Roatan, Honduras. This dive site has an average rating of 4.50 out of 5 from 4 scuba divers. The maximum depth is 36-40ft\/11-12m. The average visibility is 71-80ft\/22-24m.",
+                        "description2": "Fishlife along the first wall closely resembles the life found at shallower depths on other sites. King crabs, angelfish, whitespotted filefish, and spotted moray eels are commonly foun"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238579",
+                        "description2": "site_descr2_238579"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "101722",
+                        "name": "Over Heat",
+                        "lat": "16.2773",
+                        "lng": "-86.6002",
+                        "loggedDives": "330",
+                        "averageRating": "4",
+                        "loggedUsers": "291",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "52",
+                        "averageVis": "23",
+                        "distanceToCenter": "29.86",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            115,
+                            141,
+                            149
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/over-heat-honduras-101722"
+                    },
+                    "text": {
+                        "description1": "A beautiful relaxing dive site, named after the patch of reef over which an old resort dive boat would overheat each day. Over Heat is one of the most favorite dive sites on Roatan.",
+                        "description2": "This site explodes with life when there\u2019s a slight current washing over it. Kick back and enjoy the drift, and spy on turtles, groupers, creole wrasse, and triggerfish as you pass."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_101722",
+                        "description2": "site_descr2_101722"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238572",
+                        "name": "Butcher\u2019s Bank",
+                        "lat": "16.2786",
+                        "lng": "-86.6042",
+                        "loggedDives": "1797",
+                        "averageRating": "4",
+                        "loggedUsers": "1387",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "53",
+                        "averageVis": "21",
+                        "distanceToCenter": "30.13",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "6",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            65
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/butchers-bank-honduras-238572"
+                    },
+                    "text": {
+                        "description1": "Butcher\u2019s Bank offers is so much variation, making it a firm favorite with many dive operators in the area. The line is set at the usual 40 ft \/ 12 m at the inner end of a coral finger running in from the outer wall.",
+                        "description2": "To the east and south is a huge pristine sand patch littered with coral heads and bommies and soft branching corals. This is a great place for photography."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238572",
+                        "description2": "site_descr2_238572"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "263277",
+                        "name": "Infinity Bay House Reef",
+                        "lat": "16.2727",
+                        "lng": "-86.6007",
+                        "loggedDives": "836",
+                        "averageRating": "4",
+                        "loggedUsers": "310",
+                        "averageMaxDepth": "16",
+                        "averageDivetime": "51",
+                        "averageVis": "20",
+                        "distanceToCenter": "30.19",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/infinity-bay-house-reef-honduras-263277"
+                    },
+                    "text": {
+                        "description1": "Located just off West Bay, this site encompasses various dive sites, suited for beginners on the inner reef and snorkelers. A short distance away is the outer wall and greater depths.",
+                        "description2": "Eagle rays and stingrays on the inner plateau, pipefish, conger and moray eels are easily found on this site."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_263277",
+                        "description2": "site_descr2_263277"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238565",
+                        "name": "Mandy\u2019s Eel Garden",
+                        "lat": "16.2736",
+                        "lng": "-86.6018",
+                        "loggedDives": "3691",
+                        "averageRating": "5",
+                        "loggedUsers": "1936",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "51",
+                        "averageVis": "20",
+                        "distanceToCenter": "30.23",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            93,
+                            115,
+                            116,
+                            124,
+                            127,
+                            141,
+                            143,
+                            144,
+                            146,
+                            148
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mandys-eel-garden-honduras-238565"
+                    },
+                    "text": {
+                        "description1": "Located on the prestigious West Bay Beach, Mandy\u2019s Eel Garden starts at around 20 feet and continues towards the outer wall on the reef dropping down to the abyss.",
+                        "description2": "Peacock flounder, squid, juvenile drum fish, and parrot fish are to name but a few of the fish found on this wonderful site."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238565",
+                        "description2": "site_descr2_238565"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "295060",
+                        "name": "Pablos Place",
+                        "lat": "16.2665",
+                        "lng": "-86.5981",
+                        "loggedDives": "441",
+                        "averageRating": "5",
+                        "loggedUsers": "368",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "53",
+                        "averageVis": "22",
+                        "distanceToCenter": "30.37",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            92,
+                            124,
+                            143,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/pablos-place-honduras-295060"
+                    },
+                    "text": {
+                        "description1": "Located on the western tip of the Island, this is a great drift diving site with a vertical reef wall starting at about 50ft. An east to west current gives a moderate drift for recreational divers.",
+                        "description2": "Sometimes hammerhead sharks can be seen coming in from the deep! Barracuda, eagle rays, yellowtail snappers, and black coral are just some of the wonderful things to see on this dive."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_295060",
+                        "description2": "site_descr2_295060"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238562",
+                        "name": "Black Rock",
+                        "lat": "16.2703",
+                        "lng": "-86.6029",
+                        "loggedDives": "1330",
+                        "averageRating": "5",
+                        "loggedUsers": "989",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "52",
+                        "averageVis": "20",
+                        "distanceToCenter": "30.54",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/black-rock-honduras-238562"
+                    },
+                    "text": {
+                        "description1": "A continuation of West End Wall, Black Rock also provides an outstanding dive site with numerous fissures in the reef wall. Featuring spectacular soft coral formations and giant barrel sponges, this dive site joins up with West End Wall, Texas, and Pablo\u2019s Place.",
+                        "description2": "Be on the lookout for some of the smaller reef creatures, such as the arrow crab with its blue claws as well as many of the different types of shrimp, including the banded coral shrimp."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238562",
+                        "description2": "site_descr2_238562"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238561",
+                        "name": "Bucca Quay",
+                        "lat": "16.2690",
+                        "lng": "-86.6032",
+                        "loggedDives": "49",
+                        "averageRating": "5",
+                        "loggedUsers": "41",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "52",
+                        "averageVis": "27",
+                        "distanceToCenter": "30.65",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            124,
+                            144
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/bucca-quay-honduras-238561"
+                    },
+                    "text": {
+                        "description1": "Referred to by most as West End Wall, the official name is Buca Quay. This is a great wall drift dive with side canyons, chutes, and sand falls starting off at about 66 ft \/ 20 m to the bottom of the wall it drops off as you head west\/south.",
+                        "description2": "Everyone\u2019s favorite wall dive, this site is covered with lots of life and with the deep blue just off your right shoulder you should always lookout for a hammerhead."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238561",
+                        "description2": "site_descr2_238561"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "107356",
+                        "name": "Texas (The Point)",
+                        "lat": "16.2664",
+                        "lng": "-86.6037",
+                        "loggedDives": "507",
+                        "averageRating": "4",
+                        "loggedUsers": "440",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "53",
+                        "averageVis": "21",
+                        "distanceToCenter": "30.86",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            115,
+                            119,
+                            148
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/texas-the-point-west-end-wall-honduras-107356"
+                    },
+                    "text": {
+                        "description1": "Most dives that are called Texas actually start closer to the Salt Life Point buoy and drift into Texas. The reason for this is that Texas is the area off of the westernmost point of the island and can be subject to strong currents. The Texas buoy itself is in 40 ft \/ 12 m and if there is current it will generally be pushing you off of the island and out towards the blue, so your dive can be hard work and short.",
+                        "description2": "You will see huge barrel sponges, gorgonian fans, grouper, snapper, schools of yellowtail, Atlantic spadefish, barracuda and generally tons of life, but its a roll of the dice for current."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_107356",
+                        "description2": "site_descr2_107356"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "238560",
+                        "name": "West End Wall",
+                        "lat": "16.2671",
+                        "lng": "-86.6044",
+                        "loggedDives": "2571",
+                        "averageRating": "5",
+                        "loggedUsers": "1751",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "53",
+                        "averageVis": "22",
+                        "distanceToCenter": "30.87",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "HND",
+                        "wildlife": [
+                            119,
+                            124
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/west-end-wall-ens-roatan-honduras-south-side-238560"
+                    },
+                    "text": {
+                        "description1": "West End Wall is one of the most popular dive sites in Roatan. People come from all over the Bay Islands to dive here. It is a huge and amazing wall on the west end of Roatan, full of canyons and a huge variety of marine life. Sometimes the current can be medium to strong at the end of the dive.",
+                        "description2": "You will see stingrays and spotted eagle rays often, along with plenty of grouper and wrasse. The wall is covered in colorful hard corals, sea fans, and sponges."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_238560",
+                        "description2": "site_descr2_238560"
+                    }
+                }
+            }
+        ]
+    }
+}

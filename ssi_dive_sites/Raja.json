@@ -1,0 +1,3649 @@
+{
+    "stats": {
+        "total": 56
+    },
+    "result": {
+        "type": "collection",
+        "ident": "mixed",
+        "elements": [
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "301988",
+                        "name": "Nudi Rock Raja Ampat",
+                        "lat": "-2.2185",
+                        "lng": "130.5651",
+                        "loggedDives": "546",
+                        "averageRating": "4",
+                        "loggedUsers": "455",
+                        "averageMaxDepth": "24",
+                        "averageDivetime": "56",
+                        "averageVis": "16",
+                        "distanceToCenter": "166.61",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            150,
+                            152,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/nudi-rock-raja-ampat-indonesia-301988"
+                    },
+                    "text": {
+                        "description1": "A huge rock dive site in between Ajoi and Nayak, It\u2019s a nice place for photographers and you don\u2019t have to swim further out, an easy and shallow dive site, only 4 mins away from Juara Jetty.",
+                        "description2": "Full of nudibranch, flatworms, seaslug, even hairyshrimp, mix with corals and rocks, good to find small things."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_301988",
+                        "description2": "site_descr2_301988"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "500482",
+                        "name": "Arefi Reef",
+                        "lat": "-0.7972",
+                        "lng": "130.7022",
+                        "loggedDives": "309",
+                        "averageRating": "4",
+                        "loggedUsers": "176",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "55",
+                        "averageVis": "17",
+                        "distanceToCenter": "214.08",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            82
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/arefi-reef-indonesia-500482"
+                    },
+                    "text": {
+                        "description1": "One hour far from Soul Scuba divers, usually the second dive on the Batanta trip, after the P-47 Wreck and before going in the jungle to discover the two waterfalls. This place is full of wobbegong.",
+                        "description2": "Wobbegong sharks, nudibranch, snapper, triggerfish, trevally, jackfish, clownfish, angelfish, butterflyfish."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_500482",
+                        "description2": "site_descr2_500482"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "516768",
+                        "name": "Algae Patch 1",
+                        "lat": "-0.9128",
+                        "lng": "130.5733",
+                        "loggedDives": "39",
+                        "averageRating": "5",
+                        "loggedUsers": "21",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "65",
+                        "averageVis": "17",
+                        "distanceToCenter": "215.96",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            126,
+                            150,
+                            151,
+                            152,
+                            265,
+                            275,
+                            284,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/algae-patch-1-indonesia-516768"
+                    },
+                    "text": {
+                        "description1": "Algae Patch is a \u201cmuck\u201c dive site used by many liveaboards to\/from Raja Ampat \/ Sorong. It\u2019s in a channel, so you\u2019ll need to watch the tide charts to avoid strong currents. Lots of sandy areas with coral blocks and teeming macro life.",
+                        "description2": "Nudys, Rhinopias, Scropion Leaffishes, Mimik-Octopus and Wonderpus have been seen here on regular base"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_516768",
+                        "description2": "site_descr2_516768"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "307747",
+                        "name": "P-47 Plane Wreck",
+                        "lat": "-0.7050",
+                        "lng": "130.7090",
+                        "loggedDives": "205",
+                        "averageRating": "4",
+                        "loggedUsers": "184",
+                        "averageMaxDepth": "30",
+                        "averageDivetime": "53",
+                        "averageVis": "19",
+                        "distanceToCenter": "220.93",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/30\/77\/47\/images\/6316fef760ca2_307747_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/30\/77\/47\/images\/6316fef760ca2_307747_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/30\/77\/47\/images\/6316fef760ca2_307747_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/p-47-plane-wreck-indonesia-307747"
+                    },
+                    "text": {
+                        "description1": "45 minutes boat ride from Soul scuba divers, Airplane wreck lies between 26m-33 metre. Airplane wreck is from WW2 pacific war and its an American P-47D aircraft",
+                        "description2": "Airplane wreck, leaf scorpionfish, scorpion fish, flatheads, wrasse, damsel fish, groupers, snappers,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_307747",
+                        "description2": "site_descr2_307747"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "500564",
+                        "name": "Shark Point Raja Ampat",
+                        "lat": "-0.6500",
+                        "lng": "130.6065",
+                        "loggedDives": "264",
+                        "averageRating": "4",
+                        "loggedUsers": "151",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "47",
+                        "averageVis": "21",
+                        "distanceToCenter": "233.21",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            132,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/shark-point-raja-ampat-indonesia-500564"
+                    },
+                    "text": {
+                        "description1": "Start against the current looking for schools of fishes then drift along the slope that alternatively change to walls. As you drift along, the coral becomes denser until reaching a nice coral garden. Don\u2019t forget to look in the blue and look for schools of bumphead parrotfishes.",
+                        "description2": "White tip and black tip reef sharks, hawksbill turtles, school of bumphead parrotfishes, nudibranches, good for macro."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_500564",
+                        "description2": "site_descr2_500564"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "436333",
+                        "name": "Koi island",
+                        "lat": "-0.5529",
+                        "lng": "130.6951",
+                        "loggedDives": "247",
+                        "averageRating": "5",
+                        "loggedUsers": "211",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "55",
+                        "averageVis": "20",
+                        "distanceToCenter": "234.6",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/63\/33\/images\/6317023e9584e_436333_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/63\/33\/images\/6317023e9584e_436333_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/63\/33\/images\/6317023e9584e_436333_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            92,
+                            98,
+                            100,
+                            107,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            142,
+                            143,
+                            144,
+                            147,
+                            150,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/koi-island-indonesia-436333"
+                    },
+                    "text": {
+                        "description1": "Ten minutes boat ride away from Soul scuba divers, slopy wall, drift dive within many sharks and schools of fishes. The reef starts from 5 meter until 40 meters.",
+                        "description2": "White tip shark, black tip shark, eagle ray, snappers, sweetlips, spadefish, eels, fusiliers, surgeon fishes,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_436333",
+                        "description2": "site_descr2_436333"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "111486",
+                        "name": "Tapor Tamiyam, Cape Kri, Raja Ampat",
+                        "lat": "-0.5565",
+                        "lng": "130.6901",
+                        "loggedDives": "4782",
+                        "averageRating": "5",
+                        "loggedUsers": "2829",
+                        "averageMaxDepth": "25",
+                        "averageDivetime": "53",
+                        "averageVis": "19",
+                        "distanceToCenter": "234.66",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791278_111486_417559.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791278_111486_417559.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791278_111486_417559.png\/2000.jpg",
+                                    "copyright": "Peter S. (#417559)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791304_111486_417559.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791304_111486_417559.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791304_111486_417559.png\/2000.jpg",
+                                    "copyright": "Peter S. (#417559)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791362_111486_417559.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791362_111486_417559.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1678791362_111486_417559.png\/2000.jpg",
+                                    "copyright": "Peter S. (#417559)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1745946438_111486_4372631.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1745946438_111486_4372631.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/86\/images\/1745946438_111486_4372631.png\/2000.jpg",
+                                    "copyright": "Ekaterina T. (#4372631)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            82,
+                            89,
+                            90,
+                            92,
+                            93,
+                            107,
+                            112,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            133,
+                            134,
+                            135,
+                            137,
+                            138,
+                            139,
+                            140,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            150,
+                            152,
+                            275,
+                            283,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/tapor-tamiyam-cape-kri-raja-ampat-indonesia-111486"
+                    },
+                    "text": {
+                        "description1": "Cape Kri dive site is located on the northeastern end of Kri Island. A famous Raja Ampat dive site that holds the world record for the dive site with the highest number of species (374!) sighted on a single dive (record held by Gerald R. Allen, marine biologist)",
+                        "description2": "Amongst others you can see: schools of fusiliers, yellowtail barracuda, white tip sharks, black tip sharks, napoleon wrasse, red tooth triggerfish and beautiful corals."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_111486",
+                        "description2": "site_descr2_111486"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "110148",
+                        "name": "Sardine Reef",
+                        "lat": "-0.5338",
+                        "lng": "130.7158",
+                        "loggedDives": "2140",
+                        "averageRating": "5",
+                        "loggedUsers": "1652",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "54",
+                        "averageVis": "19",
+                        "distanceToCenter": "234.75",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            125,
+                            126,
+                            129,
+                            134,
+                            139,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/sardine-reef-indonesia-110148"
+                    },
+                    "text": {
+                        "description1": "15 minutes from closest dive center, busy dive spot with fish and sharks, mild to medium current, decent into the blue and drifting to the dive spot.",
+                        "description2": "Fusiliers, white tip shark, black tip shark, barracuda, tuna, triggerfish, wobbegong shark, angelfishes."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_110148",
+                        "description2": "site_descr2_110148"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "643263",
+                        "name": "Chicken reef",
+                        "lat": "-0.5455",
+                        "lng": "130.7004",
+                        "loggedDives": "261",
+                        "averageRating": "5",
+                        "loggedUsers": "201",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "55",
+                        "averageVis": "19",
+                        "distanceToCenter": "234.85",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/chicken-reef-indonesia-643263"
+                    },
+                    "text": {
+                        "description1": "Large seamount with depth from 3-30m. Amazing coral coverage and very rich for marine life as well. Often strong current which brings a lot of fish and action.",
+                        "description2": "Many different species of fish, sharks, garden eels, beautiful coral gardens, occasionally Manta rays passing."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_643263",
+                        "description2": "site_descr2_643263"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "419944",
+                        "name": "Sorido Wall",
+                        "lat": "-0.5535",
+                        "lng": "130.6885",
+                        "loggedDives": "219",
+                        "averageRating": "5",
+                        "loggedUsers": "195",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "56",
+                        "averageVis": "18",
+                        "distanceToCenter": "235.02",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            100,
+                            115,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            143,
+                            144,
+                            147,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/sorido-wall-indonesia-419944"
+                    },
+                    "text": {
+                        "description1": "Ten minutes boat ride from Soul scuba divers dive centre, near to Cape kri dive site, amazing wall with lots of activity within sharks and fish schools. Take your torch because on the wall you have some nice overhangs and caves.",
+                        "description2": "Snappers, groupers, white tip reef shark, black tip reef sharks, barracuda, fusiliers, spanish mackrell, green turtles"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_419944",
+                        "description2": "site_descr2_419944"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "443820",
+                        "name": "Pasir Timbul",
+                        "lat": "-0.5500",
+                        "lng": "130.6912",
+                        "loggedDives": "174",
+                        "averageRating": "5",
+                        "loggedUsers": "148",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "56",
+                        "averageVis": "20",
+                        "distanceToCenter": "235.13",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/38\/20\/images\/631705e70c02b_443820_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/38\/20\/images\/631705e70c02b_443820_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/38\/20\/images\/631705e70c02b_443820_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            92,
+                            98,
+                            107
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/pasir-timbul-indonesia-443820"
+                    },
+                    "text": {
+                        "description1": "Ten minutes away from the Soul scuba divers dive centre, beautiful slope coral reef, drift dive site with plenty of action with fish and sharks.",
+                        "description2": "white tip shark, black tip shark, eagle ray, spade fish, fussiliers, tuna, groupers, pygmy seahorse, eels,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_443820",
+                        "description2": "site_descr2_443820"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "130507",
+                        "name": "Chicken Reef",
+                        "lat": "-0.5443",
+                        "lng": "130.6939",
+                        "loggedDives": "1992",
+                        "averageRating": "5",
+                        "loggedUsers": "1527",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "54",
+                        "averageVis": "19",
+                        "distanceToCenter": "235.41",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            100,
+                            107,
+                            115,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            142,
+                            144,
+                            146,
+                            147,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/chicken-reef-indonesia-130507"
+                    },
+                    "text": {
+                        "description1": "Another shallow reef dive, however even with its similar topography to other sites, it delivers a vastly different set of species. Ever-present is large numbers of fusiliers and other colourful fish inhabiting the coral. It is known for its strong currents.",
+                        "description2": "Keep a look out for pipefish, pigmy seahorses, nudibranches, flatworms and some very interesting crabs and shrimps."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_130507",
+                        "description2": "site_descr2_130507"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "687350",
+                        "name": "Turtle House Reef",
+                        "lat": "-0.5650",
+                        "lng": "130.6691",
+                        "loggedDives": "163",
+                        "averageRating": "5",
+                        "loggedUsers": "68",
+                        "averageMaxDepth": "16",
+                        "averageDivetime": "49",
+                        "averageVis": "15",
+                        "distanceToCenter": "235.47",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38730b65bb_687350_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38730b65bb_687350_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38730b65bb_687350_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a3883ae3633_687350_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a3883ae3633_687350_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a3883ae3633_687350_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a388e1abb78_687350_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a388e1abb78_687350_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a388e1abb78_687350_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38d3b67155_687350_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38d3b67155_687350_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/68\/73\/50\/images\/66a38d3b67155_687350_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            54,
+                            77,
+                            79,
+                            81,
+                            82,
+                            84,
+                            92,
+                            93,
+                            98,
+                            150,
+                            152,
+                            155
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/turtle-house-reef-indonesia-687350"
+                    },
+                    "text": {
+                        "description1": "Wonderful close by house reef right in front of Turtle Divers Raja Ampat center, offers sensation of slope colorful soft and hard corals combination. Average shallow between 12 - 16 meters with mostly light current condition give you calm and easy dive experience.",
+                        "description2": "Group of fusiliers, sweet lips, black tip playing along the reef, and napoleon wrasse often spotted here. puffer fish a well easy to find, big fish species normally only in the shalow"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_687350",
+                        "description2": "site_descr2_687350"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "437071",
+                        "name": "Cape Mansuar",
+                        "lat": "-0.5723",
+                        "lng": "130.6604",
+                        "loggedDives": "706",
+                        "averageRating": "5",
+                        "loggedUsers": "587",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "56",
+                        "averageVis": "20",
+                        "distanceToCenter": "235.5",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            92,
+                            115,
+                            124,
+                            125,
+                            129,
+                            130,
+                            131,
+                            133,
+                            134
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/cape-mansuar-indonesia-437071"
+                    },
+                    "text": {
+                        "description1": "5 minutes boat ride away from the closest diving center, get drop to the wall and swim your way to the corner of fishy madness. Mild to medium current, beginners to advance levels.",
+                        "description2": "barracuda, fusiliers, surgeon fish, triggerfish, jacks, giant travelly, black tip sharks, jacks, green turtles, batfishes."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_437071",
+                        "description2": "site_descr2_437071"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "130510",
+                        "name": "Blue Magic",
+                        "lat": "-0.5074",
+                        "lng": "130.7368",
+                        "loggedDives": "2066",
+                        "averageRating": "5",
+                        "loggedUsers": "1499",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "53",
+                        "averageVis": "18",
+                        "distanceToCenter": "235.54",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/631702fa743e7_130510_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/631702fa743e7_130510_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/631702fa743e7_130510_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fb2650aef_130510_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fb2650aef_130510_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fb2650aef_130510_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fd1ebcaad_130510_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fd1ebcaad_130510_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fd1ebcaad_130510_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fe1c3e6a0_130510_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fe1c3e6a0_130510_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fe1c3e6a0_130510_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fee37a052_130510_741556.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fee37a052_130510_741556.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/13\/05\/10\/images\/66a4fee37a052_130510_741556.png\/2000.jpg",
+                                    "copyright": "TURTLE DIVERS RAJA AMPAT, 98427 Yenbuba - South West Papua"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            137,
+                            143,
+                            144,
+                            147,
+                            155,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/blue-magic-indonesia-130510"
+                    },
+                    "text": {
+                        "description1": "Challenging dive site, This is the one site where anything can happen\u2026.and it usually does! Be ready for an amazing dive here! one of the most popular dive site in Raja Ampat",
+                        "description2": "Fantastic dive site for Grey reef sharks and when in season oceanic mantas, swarms of Spanish Mackerel, Giant Trevally, Barracuda, Dogtooth Tuna, Rainbow Runners, and countless Jacks"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_130510",
+                        "description2": "site_descr2_130510"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "439288",
+                        "name": "Crossover",
+                        "lat": "-0.5490",
+                        "lng": "130.6833",
+                        "loggedDives": "180",
+                        "averageRating": "5",
+                        "loggedUsers": "149",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "56",
+                        "averageVis": "20",
+                        "distanceToCenter": "235.78",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            93,
+                            98,
+                            100,
+                            150,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/crossover-indonesia-439288"
+                    },
+                    "text": {
+                        "description1": "Ten minutes boat ride from Soul scuba divers dive centre, epic wall dive site, best in high tides, many type of sharks and schools of fishies, near to Cape kri",
+                        "description2": "trigger fish, napoleon, parrotfish, white tip reef shark, black tip reef shark, fusiliers, groupers"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_439288",
+                        "description2": "site_descr2_439288"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "444251",
+                        "name": "New Reef (Dom Te Te)",
+                        "lat": "-0.5417",
+                        "lng": "130.6916",
+                        "loggedDives": "189",
+                        "averageRating": "4",
+                        "loggedUsers": "171",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "55",
+                        "averageVis": "19",
+                        "distanceToCenter": "235.8",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            115,
+                            122,
+                            130,
+                            133,
+                            134,
+                            137,
+                            143,
+                            144,
+                            147,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/new-reef-dom-te-indonesia-444251"
+                    },
+                    "text": {
+                        "description1": "15 minutes away from Soul Scuba divers dive centre, coral bummies, reef starts at 5 meters until 40 meters, fishy dive sites with lots of different schools of fishes. You can finish the dive on the top where the corals are amazingly colorfoul.",
+                        "description2": "Garden eels, black tip shark, white tip shark, tuna, barracuda, spanish mackrell, angelfish, butterfly fish, triggerfish"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_444251",
+                        "description2": "site_descr2_444251"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "400430",
+                        "name": "Warahnus",
+                        "lat": "-0.5652",
+                        "lng": "130.6639",
+                        "loggedDives": "282",
+                        "averageRating": "4",
+                        "loggedUsers": "231",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "56",
+                        "averageVis": "18",
+                        "distanceToCenter": "235.83",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            98,
+                            100,
+                            115,
+                            121,
+                            122,
+                            123,
+                            124,
+                            127,
+                            129,
+                            130,
+                            132,
+                            133,
+                            135,
+                            137,
+                            138,
+                            144,
+                            147,
+                            148,
+                            149
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/warahnus-indonesia-400430"
+                    },
+                    "text": {
+                        "description1": "Located in front of Warahnus Dive Homestay jetty, offers you variation big corals structures along the reef. Group of fusiliers playing on shallow 12 -15 meters, with variation of soft coral through the slope topography. Good for corals id program and wide angle photograph sites.",
+                        "description2": "Group of fusiliers, black tip sharks use to passing by the reef, sometimes you can show group of bum head too, napoleon wrasse, turtles, also if you can try to spot some leaf fish."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_400430",
+                        "description2": "site_descr2_400430"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "470050",
+                        "name": "Yenkoranu",
+                        "lat": "-0.5583",
+                        "lng": "130.6710",
+                        "loggedDives": "397",
+                        "averageRating": "4",
+                        "loggedUsers": "312",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "55",
+                        "averageVis": "19",
+                        "distanceToCenter": "235.89",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_05-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            100,
+                            143,
+                            151,
+                            153,
+                            155,
+                            156,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/yenkoranu-indonesia-470050"
+                    },
+                    "text": {
+                        "description1": "Only 5 minutes far from Soul Scuba divers. This is drift dive during the day, that can bring you toward Cape Kri or bring you up to Soul Scuba\u2019s jetty. Look at the nice coral but also in the blue, where sharks can pass by. This is also a favorite place for night dive!",
+                        "description2": "Black tip sharks, turtles, pufferfishes, school of fishes, macro at night, lobsters, shrimps and crabs."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_470050",
+                        "description2": "site_descr2_470050"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "443784",
+                        "name": "Yenbuba Jetty",
+                        "lat": "-0.5698",
+                        "lng": "130.6577",
+                        "loggedDives": "3098",
+                        "averageRating": "4",
+                        "loggedUsers": "2085",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "56",
+                        "averageVis": "19",
+                        "distanceToCenter": "235.9",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1698474854_443784_3007015.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1698474854_443784_3007015.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1698474854_443784_3007015.png\/2000.jpg",
+                                    "copyright": "Nicoletta L. (#3007015)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878484_443784_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878484_443784_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878484_443784_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878533_443784_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878533_443784_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878533_443784_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878572_443784_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878572_443784_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/37\/84\/images\/1706878572_443784_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            82,
+                            92,
+                            100,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            152,
+                            153,
+                            155,
+                            156,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/yenbuba-jetty-indonesia-443784"
+                    },
+                    "text": {
+                        "description1": "5 minutes away from the closest dive center, easy slope with artificial and coral reef, entering water near to the jetty, mild current, easy for beginners.",
+                        "description2": "Spade fish, black tip shark, white tip shark, green turtle, hawkbill turtle, angelfish, snapper, grouper."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_443784",
+                        "description2": "site_descr2_443784"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "401693",
+                        "name": "Ransiwor",
+                        "lat": "-0.5678",
+                        "lng": "130.6589",
+                        "loggedDives": "998",
+                        "averageRating": "5",
+                        "loggedUsers": "783",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "56",
+                        "averageVis": "19",
+                        "distanceToCenter": "235.98",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878634_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878634_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878634_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878667_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878667_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878667_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878691_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878691_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878691_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878712_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878712_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878712_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878732_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878732_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878732_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878753_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878753_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878753_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878770_401693_3800432.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878770_401693_3800432.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/16\/93\/images\/1706878770_401693_3800432.png\/2000.jpg",
+                                    "copyright": "Gabriele C. (#3800432)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            82,
+                            100,
+                            121,
+                            122,
+                            123,
+                            130,
+                            131,
+                            134,
+                            143,
+                            147
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/ransiwor-indonesia-401693"
+                    },
+                    "text": {
+                        "description1": "5 minutes away from the closest dive center, coral garden with slope, schools of fishes, good for pygmy seahorse and wobbegong sharks, mild current, easy for beginners",
+                        "description2": "Snappers, tuna, trevally, white tip reef shark, black tip reef shark, green turtle, hawkbill turtle, surgeon fish."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_401693",
+                        "description2": "site_descr2_401693"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "669066",
+                        "name": "Mambetron",
+                        "lat": "-0.5592",
+                        "lng": "130.6677",
+                        "loggedDives": "97",
+                        "averageRating": "5",
+                        "loggedUsers": "75",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "55",
+                        "averageVis": "19",
+                        "distanceToCenter": "236.06",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/66863755427bb_669066_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/66863755427bb_669066_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/66863755427bb_669066_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/668637d510c5c_669066_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/668637d510c5c_669066_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/66\/90\/66\/images\/668637d510c5c_669066_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            77,
+                            80,
+                            82,
+                            84,
+                            85,
+                            98,
+                            100,
+                            107,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            137,
+                            138,
+                            141,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            150,
+                            275,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mambetron-indonesia-669066"
+                    },
+                    "text": {
+                        "description1": "North site of kri island near Soulscuba house reef. Don\u2019t forget to have a look into the blue you can have some ocean gift manta ray passing by. And also some sharks.",
+                        "description2": "Beautiful reef where you can encounter turtles, napoleon wrasse, family of bumphead parrotfish, big school of fusilier, nudibranch, octopus, cuttlefish \u2026"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_669066",
+                        "description2": "site_descr2_669066"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "303434",
+                        "name": "Soul Scuba Reef",
+                        "lat": "-0.5631",
+                        "lng": "130.6617",
+                        "loggedDives": "1010",
+                        "averageRating": "5",
+                        "loggedUsers": "529",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "53",
+                        "averageVis": "19",
+                        "distanceToCenter": "236.17",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            82,
+                            93,
+                            98,
+                            100,
+                            104,
+                            150,
+                            151,
+                            152,
+                            153,
+                            154,
+                            155,
+                            156,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/soul-scuba-reef-indonesia-303434"
+                    },
+                    "text": {
+                        "description1": "In front of the Soul scuba divers dive shop, you can find epic sloping coral garden with lots of different species to discover. It can be done as a shore entry or with boat. Perfect for day or night dives.",
+                        "description2": "Spadefish, lionfish, coral garden, octopus, triggerfish, green turtle, hawkbill turtle, black tip shark, white tip shark, travelly."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_303434",
+                        "description2": "site_descr2_303434"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "483830",
+                        "name": "Pasir Kolam",
+                        "lat": "-0.5685",
+                        "lng": "130.6534",
+                        "loggedDives": "42",
+                        "averageRating": "4",
+                        "loggedUsers": "33",
+                        "averageMaxDepth": "12",
+                        "averageDivetime": "55",
+                        "averageVis": "9",
+                        "distanceToCenter": "236.33",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            112,
+                            116,
+                            117,
+                            126,
+                            127,
+                            131,
+                            151,
+                            153,
+                            156,
+                            275,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/pasir-kolam-indonesia-483830"
+                    },
+                    "text": {
+                        "description1": "Only 5 minutes far from Soul Scuba divers, this site is perfect for the pool exercises for Open Water courses. This is also a favorite place for macro lovers on night dive! Sandy area with long algae, a fisherman net covering corals and lots of places for critters to hide. The maximum depth is around 10 m.",
+                        "description2": "Walking shark (Raja Epaulette shark), nudibranches, diamond file fishes, crabs, shrimps, ribbon eels, juvenile sweetlips, macro"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_483830",
+                        "description2": "site_descr2_483830"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "506099",
+                        "name": "Saonek Mondei",
+                        "lat": "-0.4487",
+                        "lng": "130.8007",
+                        "loggedDives": "318",
+                        "averageRating": "4",
+                        "loggedUsers": "272",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "53",
+                        "averageVis": "14",
+                        "distanceToCenter": "236.38",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            82,
+                            153,
+                            156,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/saonek-mondei-indonesia-506099"
+                    },
+                    "text": {
+                        "description1": "Great place for night dive and macro lovers. Only 5 minutes far from Waisai harbour and 30 minutes away of Soul Scuba divers with a speedboat. At dusk, the mandarine fishes can be seen and as the night come, explore the sand and the bummies where all the critters are hidden.",
+                        "description2": "Mandarinefishes, spidercrabs, orang-utan crabs, shrimps, nudibranches, wobbegong, scorpionfishes, etc."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_506099",
+                        "description2": "site_descr2_506099"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "500567",
+                        "name": "Agusta Reef",
+                        "lat": "-0.6487",
+                        "lng": "130.5643",
+                        "loggedDives": "112",
+                        "averageRating": "5",
+                        "loggedUsers": "82",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "55",
+                        "averageVis": "17",
+                        "distanceToCenter": "236.6",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            125,
+                            129,
+                            131,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/agusta-reef-indonesia-500567"
+                    },
+                    "text": {
+                        "description1": "Be ready for adventure! This dive site is reserved for expert divers. The reef is only at 10-12 m deep but the current is very strong so you better have a hook! But if there is current, there are fishes.",
+                        "description2": "School of fishes, black and white tip reef sharks, nudibranches (if you have the time to see them), redtooth triggerfishes"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_500567",
+                        "description2": "site_descr2_500567"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "484274",
+                        "name": "Menara Telkomsel",
+                        "lat": "-0.5671",
+                        "lng": "130.6464",
+                        "loggedDives": "169",
+                        "averageRating": "5",
+                        "loggedUsers": "145",
+                        "averageMaxDepth": "19",
+                        "averageDivetime": "54",
+                        "averageVis": "20",
+                        "distanceToCenter": "236.96",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            82,
+                            125,
+                            129,
+                            134,
+                            152,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/menara-telkomsel-indonesia-484274"
+                    },
+                    "text": {
+                        "description1": "5 minutes far from Soul Scuba divers, a nice coral slope for a drift dive. If the current is strong enough you might even drift until Soul Scuba divers jetty!",
+                        "description2": "Black tip sharks, rays, cuttlefishes, tutles, pufferfishes and many school of fishes. The reef is nice but don\u2019t forget to look in the blue!"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_484274",
+                        "description2": "site_descr2_484274"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "404524",
+                        "name": "Lao Lao",
+                        "lat": "-0.5000",
+                        "lng": "130.7230",
+                        "loggedDives": "1338",
+                        "averageRating": "4",
+                        "loggedUsers": "889",
+                        "averageMaxDepth": "24",
+                        "averageDivetime": "52",
+                        "averageVis": "18",
+                        "distanceToCenter": "237.15",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/45\/24\/images\/1690375709_404524_3302322.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/45\/24\/images\/1690375709_404524_3302322.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/40\/45\/24\/images\/1690375709_404524_3302322.png\/2000.jpg",
+                                    "copyright": "Paloma O. (#3302322)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            115,
+                            124,
+                            125,
+                            129,
+                            130,
+                            131,
+                            133,
+                            134,
+                            136
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/lao-indonesia-404524"
+                    },
+                    "text": {
+                        "description1": "20 minutes away from closest dive center, deep dive site, good for advanced divers, medium to strong current, interesting coral formations with schools of fishes, possibility to finish the dive on the Mioskun dive site.",
+                        "description2": "Snappers, triggerfish, angelfish, reef sharks, sea turtles, sea snakes, eagle rays passing by, fusiliers."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_404524",
+                        "description2": "site_descr2_404524"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "76776",
+                        "name": "Mioskun",
+                        "lat": "-0.4967",
+                        "lng": "130.7255",
+                        "loggedDives": "2388",
+                        "averageRating": "4",
+                        "loggedUsers": "1685",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "54",
+                        "averageVis": "17",
+                        "distanceToCenter": "237.26",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            84,
+                            90,
+                            92,
+                            93,
+                            98,
+                            100,
+                            107,
+                            112,
+                            115,
+                            121,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            136,
+                            137,
+                            140,
+                            141,
+                            144,
+                            148,
+                            149,
+                            150,
+                            152,
+                            153,
+                            154,
+                            156
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mioskun-indonesia-76776"
+                    },
+                    "text": {
+                        "description1": "Starting this relaxing dive should be done on the current side of the island, leaving a good distance between the entry point and the best point of dive site on the south-eastern side",
+                        "description2": "Wobbegong shark sighting are common. Make sure to peer under the coral ledges for these strange creatures, while also looking for tiny Pontohi Pygmy sea horses."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_76776",
+                        "description2": "site_descr2_76776"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "560142",
+                        "name": "Dilaut",
+                        "lat": "-0.5171",
+                        "lng": "130.6937",
+                        "loggedDives": "14",
+                        "averageRating": "5",
+                        "loggedUsers": "14",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "51",
+                        "averageVis": "25",
+                        "distanceToCenter": "237.74",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/56\/01\/42\/images\/668f28e6bcf6f_560142_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/56\/01\/42\/images\/668f28e6bcf6f_560142_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/56\/01\/42\/images\/668f28e6bcf6f_560142_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            137,
+                            138,
+                            139,
+                            141,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/dilaut-indonesia-560142"
+                    },
+                    "text": {
+                        "description1": "10 minutes boat ride away from Soul scuba dive center, nice and easy dive site, suitable for beginner level divers, goof for underwater photogrpayhy",
+                        "description2": "Underwater coral reef, multiple different spices of fish, fussieliers, barracuda, black tip reef shark"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_560142",
+                        "description2": "site_descr2_560142"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "197984",
+                        "name": "Sauwandarek",
+                        "lat": "-0.5932",
+                        "lng": "130.6053",
+                        "loggedDives": "3916",
+                        "averageRating": "5",
+                        "loggedUsers": "2662",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "55",
+                        "averageVis": "19",
+                        "distanceToCenter": "237.89",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/63170bfeb46f5_197984_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/63170bfeb46f5_197984_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/63170bfeb46f5_197984_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381060_197984_3302322.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381060_197984_3302322.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381060_197984_3302322.png\/2000.jpg",
+                                    "copyright": "Paloma O. (#3302322)"
+                                },
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381166_197984_3302322.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381166_197984_3302322.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/19\/79\/84\/images\/1690381166_197984_3302322.png\/2000.jpg",
+                                    "copyright": "Paloma O. (#3302322)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "7",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            98,
+                            100,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            134,
+                            136,
+                            137,
+                            141,
+                            142,
+                            143,
+                            144,
+                            147,
+                            149,
+                            150,
+                            151,
+                            152,
+                            265
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/sauwandarek-indonesia-197984"
+                    },
+                    "text": {
+                        "description1": "This is one of the main jetties to visit in the Raja Ampat area. You will spend a long time around the jetty. Once you swim away from the jetty, you will be surrounded by schools of fusiliers and amazing reefs.",
+                        "description2": "You will find 3 giant clams under the jetty. You will also encounter extremely large green turtles, as well as fantastic macro life."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_197984",
+                        "description2": "site_descr2_197984"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "485827",
+                        "name": "Felici garden",
+                        "lat": "-0.5707",
+                        "lng": "130.6280",
+                        "loggedDives": "78",
+                        "averageRating": "5",
+                        "loggedUsers": "51",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "61",
+                        "averageVis": "18",
+                        "distanceToCenter": "238.03",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            143,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/felici-garden-indonesia-485827"
+                    },
+                    "text": {
+                        "description1": "This is the new coral plantation location of the NGO the Sea People (Orang Laut). The goal is to plant 1 hectare of corals. Ask information at Soul Scuba divers to come, help and learn a lot about corals!",
+                        "description2": "Coral plantation, conservation project, macro in the sand and rubbles, nudibranchs, pipefishes, cuttlefish, pufferfish"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_485827",
+                        "description2": "site_descr2_485827"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "441423",
+                        "name": "Mike\u2019s Point",
+                        "lat": "-0.5155",
+                        "lng": "130.6735",
+                        "loggedDives": "478",
+                        "averageRating": "5",
+                        "loggedUsers": "426",
+                        "averageMaxDepth": "24",
+                        "averageDivetime": "55",
+                        "averageVis": "18",
+                        "distanceToCenter": "239.32",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/14\/23\/images\/63170dc4615dd_441423_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/14\/23\/images\/63170dc4615dd_441423_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/44\/14\/23\/images\/63170dc4615dd_441423_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            107,
+                            126,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mikes-point-indonesia-441423"
+                    },
+                    "text": {
+                        "description1": "15 minutes from Soul Scuba divers dive centre, you will arrive into a small little mushroom shaped island, where you will decent into shallow coral garden. Overhang and wall, you might want to take your Underwaterlight with you!",
+                        "description2": "Bumphead parrotfish, hawksbill turtle, green turtle, black tip reefshark, white tip reefshark, barracuda, tuna, trevally and pygmy seahorses."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_441423",
+                        "description2": "site_descr2_441423"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "501869",
+                        "name": "Scuba Republic House Reef",
+                        "lat": "-0.4428",
+                        "lng": "130.7535",
+                        "loggedDives": "1383",
+                        "averageRating": "4",
+                        "loggedUsers": "147",
+                        "averageMaxDepth": "15",
+                        "averageDivetime": "56",
+                        "averageVis": "12",
+                        "distanceToCenter": "240.06",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/scuba-republic-house-reef-indonesia-501869"
+                    },
+                    "text": {
+                        "description1": "Head down the jetty at the Scuba Republic Raja Ampat Resort and with a giant stride straight into the water where you will find calm conditions and a beautiful house reef.",
+                        "description2": "Fringing coral reef including many different coral and fish species as well an abundance of macro life."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_501869",
+                        "description2": "site_descr2_501869"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "518152",
+                        "name": "Friwen garden",
+                        "lat": "-0.4866",
+                        "lng": "130.6973",
+                        "loggedDives": "208",
+                        "averageRating": "4",
+                        "loggedUsers": "157",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "55",
+                        "averageVis": "16",
+                        "distanceToCenter": "240.11",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            93,
+                            100,
+                            107,
+                            112,
+                            115,
+                            116,
+                            118,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            137,
+                            138,
+                            139,
+                            141,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            150,
+                            151,
+                            152,
+                            153,
+                            154,
+                            155,
+                            156,
+                            275,
+                            279
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/friwen-garden-indonesia-518152"
+                    },
+                    "text": {
+                        "description1": "Shallow reef with combination of soft and hard corals. Usually very mild current. If current gets stronger, possible to do drift dive as reef is long enough. The best depth to 3-14m",
+                        "description2": "Black tip reef sharks, cuttlefish, Crocodile fish, soft and hard corals, many small reef fish, beautiful coral garden,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_518152",
+                        "description2": "site_descr2_518152"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "518151",
+                        "name": "FRIWEN WALL",
+                        "lat": "-0.4870",
+                        "lng": "130.6943",
+                        "loggedDives": "433",
+                        "averageRating": "5",
+                        "loggedUsers": "364",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "57",
+                        "averageVis": "15",
+                        "distanceToCenter": "240.28",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_01-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares, Janez Kranjc"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            100,
+                            104,
+                            107,
+                            112,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            137,
+                            138,
+                            141,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            150,
+                            152,
+                            153,
+                            154,
+                            155,
+                            156,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/friwen-wall-indonesia-518151"
+                    },
+                    "text": {
+                        "description1": "Colorful wall covered by soft corals, black corals and gorgonians. Depth 2-26m. Usually easy dive with time to search for macro. When current gets strong, great place for drift dive.",
+                        "description2": "Black corals, soft corals, Gorgonians, Pygmy seahorses, Wobbegong, Stingrays on the bottom, Mantis peacock shrimps, Nudibranch, snappers, batfish, fusiliers, trevallies, reef sharks"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_518151",
+                        "description2": "site_descr2_518151"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "500483",
+                        "name": "West Mansuar",
+                        "lat": "-0.6122",
+                        "lng": "130.5539",
+                        "loggedDives": "494",
+                        "averageRating": "4",
+                        "loggedUsers": "341",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "53",
+                        "averageVis": "17",
+                        "distanceToCenter": "240.3",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            90,
+                            92,
+                            125,
+                            143
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/west-mansuar-indonesia-500483"
+                    },
+                    "text": {
+                        "description1": "Start in the sandy and rocky area where you can see nice macro and have some bigger animal passing by in the blue. Then you finish at the tip where the current is strong and bring a lot of fishes. The top coral garden is amazing and you can sometimes see mantas or schools of mobulas passing by.",
+                        "description2": "Black tip shark, manta, mobulas, school of fishes, nudibranchs, cuttlefishes, jacks, snappers, pufferfishes"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_500483",
+                        "description2": "site_descr2_500483"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "307744",
+                        "name": "Ot Di Ma",
+                        "lat": "-0.5355",
+                        "lng": "130.6354",
+                        "loggedDives": "219",
+                        "averageRating": "4",
+                        "loggedUsers": "188",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "56",
+                        "averageVis": "16",
+                        "distanceToCenter": "240.4",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            92,
+                            98,
+                            100,
+                            125,
+                            129,
+                            130,
+                            131,
+                            133,
+                            134,
+                            135,
+                            136,
+                            146,
+                            150,
+                            152,
+                            275,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/ot-di-ma-indonesia-307744"
+                    },
+                    "text": {
+                        "description1": "45 minutes boat ride away from Soul scuba divers dive centre, remember look into blue for big sea creatures passing by, reef starts at 5 meter to 40 meter",
+                        "description2": "eagle rays, reef sharks, green turtle, hawkbill turtle, snappers, triggerfish, fusiliers, coral garden"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_307744",
+                        "description2": "site_descr2_307744"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "165405",
+                        "name": "Francisco Reef",
+                        "lat": "-0.4806",
+                        "lng": "130.6949",
+                        "loggedDives": "222",
+                        "averageRating": "4",
+                        "loggedUsers": "183",
+                        "averageMaxDepth": "20",
+                        "averageDivetime": "55",
+                        "averageVis": "14",
+                        "distanceToCenter": "240.79",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_03-Scubapro.jpg\/1000.jpg",
+                                    "copyright": "Scubapro"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            93
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/francisco-reef-indonesia-165405"
+                    },
+                    "text": {
+                        "description1": "This site is named after a house guest at Biodiversity Resort who explored this area. Descending onto a shallow rock, your dive starts immediately with the welcoming site of colorful Anthias and Fusiliers.",
+                        "description2": "Blue spotted stingrays and the elusive pygmy seahorse are found here. In the shallows, poke your head under the overhangs to spot wobbegong sharks."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_165405",
+                        "description2": "site_descr2_165405"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "111481",
+                        "name": "Friwen Wall, Raja Ampat",
+                        "lat": "-0.4754",
+                        "lng": "130.6947",
+                        "loggedDives": "1739",
+                        "averageRating": "4",
+                        "loggedUsers": "1188",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "54",
+                        "averageVis": "15",
+                        "distanceToCenter": "241.25",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            112,
+                            115,
+                            121,
+                            122,
+                            123,
+                            125,
+                            126,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            146,
+                            147,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/friwen-wall-raja-ampat-indonesia-111481"
+                    },
+                    "text": {
+                        "description1": "This dive site is unique in that it is one of the very few wall dives that the Dampier Straight has to offer. The start of the wall has two small caves where you can spot fish swimming upside down, a strange thing to see for the first time.",
+                        "description2": "The wall is covered with gorgonian fan corals, sponges and whip tail corals right from the bottom of the wall to the surface. It is the perfect wall."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_111481",
+                        "description2": "site_descr2_111481"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "503325",
+                        "name": "Saporken Dive Site",
+                        "lat": "-0.4394",
+                        "lng": "130.7287",
+                        "loggedDives": "561",
+                        "averageRating": "4",
+                        "loggedUsers": "444",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "59",
+                        "averageVis": "11",
+                        "distanceToCenter": "242.04",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/50\/33\/25\/images\/1690375879_503325_3302322.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/50\/33\/25\/images\/1690375879_503325_3302322.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/50\/33\/25\/images\/1690375879_503325_3302322.png\/2000.jpg",
+                                    "copyright": "Paloma O. (#3302322)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/saporken-dive-site-indonesia-503325"
+                    },
+                    "text": {
+                        "description1": "Head straight out from Saporkren village with shore access straight into the water where you will find calm conditions and a beautiful fringing reef.",
+                        "description2": "Fringing coral reef including many different coral and fish species as well an abundance of macro life."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_503325",
+                        "description2": "site_descr2_503325"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "111482",
+                        "name": "Batu Lima",
+                        "lat": "-0.4494",
+                        "lng": "130.6991",
+                        "loggedDives": "1041",
+                        "averageRating": "4",
+                        "loggedUsers": "696",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "54",
+                        "averageVis": "14",
+                        "distanceToCenter": "243.2",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/82\/images\/631703e90b6a5_111482_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/82\/images\/631703e90b6a5_111482_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/11\/14\/82\/images\/631703e90b6a5_111482_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            93,
+                            112,
+                            121,
+                            123,
+                            130,
+                            132,
+                            134,
+                            137,
+                            138,
+                            141,
+                            143,
+                            144,
+                            147,
+                            149,
+                            155,
+                            265,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/batu-lima-indonesia-111482"
+                    },
+                    "text": {
+                        "description1": "With its Indonesian name meaning \u201cFive Rocks,\u201d this is a perennial favorite, with many of our guests requesting one or more returns to this site. Descending on the north-eastern side takes you down to the maximum depth of around 24m",
+                        "description2": "Large schools of Barracudas and the odd sitting of Mantas when in season. You can find the electric clam on this site in a few places"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_111482",
+                        "description2": "site_descr2_111482"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "99441",
+                        "name": "Biodiversity House Reef",
+                        "lat": "-0.4519",
+                        "lng": "130.6937",
+                        "loggedDives": "381",
+                        "averageRating": "4",
+                        "loggedUsers": "228",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "53",
+                        "averageVis": "13",
+                        "distanceToCenter": "243.36",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_10-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/biodiversity-house-reef-indonesia-99441"
+                    },
+                    "text": {
+                        "description1": "The reef in front of Biodiversity Jetty and continous all the way to Batu Lima starts at 2m dropping down to 20m. The reef has many hidden areas for species to hide",
+                        "description2": "Under the jetty you it\u2019s extremely common to discover the walking shark and Blacktip reef sharks swimming along the reef"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_99441",
+                        "description2": "site_descr2_99441"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "506526",
+                        "name": "Arno\u2019s Underwater Reef",
+                        "lat": "-0.5728",
+                        "lng": "130.5542",
+                        "loggedDives": "24",
+                        "averageRating": "5",
+                        "loggedUsers": "23",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "52",
+                        "averageVis": "15",
+                        "distanceToCenter": "243.43",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "advanced",
+                            "expert"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            90
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/arnos-underwater-reef-indonesia-506526"
+                    },
+                    "text": {
+                        "description1": "On the most favorable days, the current is strong. Try to start close to the drop off otherwise you better have freediving fins to move quicker and save deco time. On the drop off there is a great overhang from 28 to 35 m, you can then go deeper than 50 m. The end is on nice soft coral garden up to 5 m.",
+                        "description2": "On this underwater reef, be ready to see swimming fishes, marine corals, shell-less nudibranches. An occasional sub-aquatic manta might pass by."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_506526",
+                        "description2": "site_descr2_506526"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "476417",
+                        "name": "Kabui Reef",
+                        "lat": "-0.4471",
+                        "lng": "130.6973",
+                        "loggedDives": "34",
+                        "averageRating": "4",
+                        "loggedUsers": "29",
+                        "averageMaxDepth": "15",
+                        "averageDivetime": "51",
+                        "averageVis": "17",
+                        "distanceToCenter": "243.52",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/kabui-reef-indonesia-476417"
+                    },
+                    "text": {
+                        "description1": "Kabui is a delightful secluded beach with a sandy bottom and reef patches scattered about. It provides calm and current free training conditions for courses or refreshers, or a gentle dive around its hard and soft coral bombies. You can sometimes get the chance of spotting Turtles and blue spotted rays.",
+                        "description2": "wonderful coral reef, with hidding nudibranches and spanish dancers at night can be seen here. schools of yellow snappers"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_476417",
+                        "description2": "site_descr2_476417"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "76774",
+                        "name": "Manta Sandy",
+                        "lat": "-0.5810",
+                        "lng": "130.5400",
+                        "loggedDives": "2197",
+                        "averageRating": "4",
+                        "loggedUsers": "1666",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "58",
+                        "averageVis": "15",
+                        "distanceToCenter": "243.87",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_09-Mares-Predrag_Vuckovic.jpg\/1000.jpg",
+                                    "copyright": "Mares, Predrag Vuckovic"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "5",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            90
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/manta-sandy-indonesia-76774"
+                    },
+                    "text": {
+                        "description1": "Lean or hook on the nice and flat sandy area at 16 m from where you can enjoy the show of the mantas getting cleaned. This is an easy manta dive site for beginners. While waiting for the manta to come, look for macro in the sandy area, you might even see a flamboyant cuttlefish!",
+                        "description2": "Reef and Manta, cleaner wrasses and angelfishes cleaning the mantas, remora , flamboyant cuttlefishes."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_76774",
+                        "description2": "site_descr2_76774"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "402915",
+                        "name": "Manta Ridge",
+                        "lat": "-0.5628",
+                        "lng": "130.5448",
+                        "loggedDives": "937",
+                        "averageRating": "4",
+                        "loggedUsers": "743",
+                        "averageMaxDepth": "15",
+                        "averageDivetime": "58",
+                        "averageVis": "17",
+                        "distanceToCenter": "244.96",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            90
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/manta-ridge-indonesia-402915"
+                    },
+                    "text": {
+                        "description1": "20 min boat ride from Soul scuba divers dive centre, Manta cleaning station, from dec-may you have chance to see reef and oceanic manta rays in this dive site. In 2022 the reef mantas were already here since end of August.",
+                        "description2": "reef manta rays, oceanic manta rays, eagle rays, mobula, black tip shark, white tip shark, grey reef shark"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_402915",
+                        "description2": "site_descr2_402915"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "476881",
+                        "name": "Uri",
+                        "lat": "-0.4174",
+                        "lng": "130.6916",
+                        "loggedDives": "49",
+                        "averageRating": "4",
+                        "loggedUsers": "36",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "52",
+                        "averageVis": "10",
+                        "distanceToCenter": "246.51",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/uri-indonesia-476881"
+                    },
+                    "text": {
+                        "description1": "Another beautiful reef discovered by us, on one of our exploratory trips. Sitting just inside the entrance of what is known as the lake between Waigo and Gam Islands.",
+                        "description2": "With dense hard corals in the shallows and a gentle slope it provides a chance to see frogfish and several different pipefish species and a wide verity of macro life."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_476881",
+                        "description2": "site_descr2_476881"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "76761",
+                        "name": "Arborek Jetty",
+                        "lat": "-0.5639",
+                        "lng": "130.5188",
+                        "loggedDives": "3051",
+                        "averageRating": "4",
+                        "loggedUsers": "1447",
+                        "averageMaxDepth": "18",
+                        "averageDivetime": "55",
+                        "averageVis": "16",
+                        "distanceToCenter": "246.87",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_07-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            107,
+                            108,
+                            115,
+                            116,
+                            117,
+                            118,
+                            121,
+                            124,
+                            125,
+                            126,
+                            127,
+                            128,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            138,
+                            139,
+                            140,
+                            141,
+                            142,
+                            143,
+                            144,
+                            145,
+                            146,
+                            147
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/arborek-jetty-indonesia-76761"
+                    },
+                    "text": {
+                        "description1": "This is a challenging dive and not for the faint hearted. This jetty is a photographers dream with thousands of fish found under the jetty, such as schooling jacks hunting on the smaller silversides. It is not an easy dive due to the strong currents you can experience here.",
+                        "description2": "Soft and hard corals and giant clams, found to the one side of the jetty with lots of coral and pinnacles on the east side of the island."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_76761",
+                        "description2": "site_descr2_76761"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "99442",
+                        "name": "The Passage",
+                        "lat": "-0.4306",
+                        "lng": "130.5562",
+                        "loggedDives": "158",
+                        "averageRating": "4",
+                        "loggedUsers": "116",
+                        "averageMaxDepth": "17",
+                        "averageDivetime": "52",
+                        "averageVis": "16",
+                        "distanceToCenter": "254.98",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            92,
+                            107,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/the-passage-indonesia-99442"
+                    },
+                    "text": {
+                        "description1": "One hour away from Soul scuba divers dive centre. This is a narrow canyon, situated between Gam Island and Waigeo Island, good for macro lovers. The current might be strong and you can feel like flying in a river.",
+                        "description2": "Pygmy seahorse, flatworms, nudibranchs, sweetlips, stingrays, eels, turtles, sharks, angelfish, groupers."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_99442",
+                        "description2": "site_descr2_99442"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "426138",
+                        "name": "Citrus Ridge",
+                        "lat": "-0.5128",
+                        "lng": "130.4604",
+                        "loggedDives": "1801",
+                        "averageRating": "4",
+                        "loggedUsers": "1358",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "56",
+                        "averageVis": "18",
+                        "distanceToCenter": "255.47",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/42\/61\/38\/images\/6317105974b7d_426138_741463.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/42\/61\/38\/images\/6317105974b7d_426138_741463.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/42\/61\/38\/images\/6317105974b7d_426138_741463.png\/2000.jpg",
+                                    "copyright": "Soul Scuba Divers, - Raja Ampat"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "2",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            100,
+                            115,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            130,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            139,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            150,
+                            151,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/citrus-ridge-indonesia-426138"
+                    },
+                    "text": {
+                        "description1": "One hour boat ride from closest dive center, witness on the way the beautiful fauna that Raja Ampat has to offer. Macro to big schools of fishes. The endemic yellow coral that you find on this dive site gave the name of \u201cCitrus\u201c.",
+                        "description2": "Wobbegong sharks, eels, nudibranches, barracudas, fusiliers, breams, surgeonfish, triggerfish, octopus."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_426138",
+                        "description2": "site_descr2_426138"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "430643",
+                        "name": "Mayhem",
+                        "lat": "-0.5117",
+                        "lng": "130.4405",
+                        "loggedDives": "1417",
+                        "averageRating": "5",
+                        "loggedUsers": "1098",
+                        "averageMaxDepth": "23",
+                        "averageDivetime": "56",
+                        "averageVis": "18",
+                        "distanceToCenter": "257.11",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/06\/43\/images\/1745124590_430643_3370507.png\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/06\/43\/images\/1745124590_430643_3370507.png\/800.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/divesites\/43\/06\/43\/images\/1745124590_430643_3370507.png\/2000.jpg",
+                                    "copyright": "Maria Fransiska H. (#3370507)"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            100,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            126,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            136,
+                            137,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/mayhem-indonesia-430643"
+                    },
+                    "text": {
+                        "description1": "One hour boat ride from Soul scuba divers dive centre, on the way to the dive site you can witness dolphins, pilot whales and many birds. The coral reef starts at 5-7 meters and continue until 40 meters.",
+                        "description2": "Wobbegong shark, white tip shark, black tip sharks, barramundi, jacks, barracuda, fusiliers, angelfish, butterfly fish,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_430643",
+                        "description2": "site_descr2_430643"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "476863",
+                        "name": "Fam Slope",
+                        "lat": "-0.6841",
+                        "lng": "130.2763",
+                        "loggedDives": "305",
+                        "averageRating": "5",
+                        "loggedUsers": "278",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "57",
+                        "averageVis": "18",
+                        "distanceToCenter": "257.61",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_08-Scubapro-Stephen_Frink.jpg\/1000.jpg",
+                                    "copyright": "Scubapro, Stephen Frink"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "1",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [],
+                        "URL": "\/mydiveguide\/divesite\/fam-slope-indonesia-476863"
+                    },
+                    "text": {
+                        "description1": "This dive site has one of the steepest slops and in some areas a wall dive. The main attraction for this dive site is the gorgonian coral that can be found here.This dive has many secrets, you just need to spend the time observing the reef while drifting by. It is a fantastic drift dive.",
+                        "description2": "You will be swept along with the current searching for macro life, like the Frogsfish and the many Nudi Branches of different species.csoft coral life is wonderful as you drift along t"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_476863",
+                        "description2": "site_descr2_476863"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "146208",
+                        "name": "Melissa\u2019s Garden",
+                        "lat": "-0.5900",
+                        "lng": "130.3153",
+                        "loggedDives": "3514",
+                        "averageRating": "5",
+                        "loggedUsers": "2856",
+                        "averageMaxDepth": "21",
+                        "averageDivetime": "57",
+                        "averageVis": "19",
+                        "distanceToCenter": "261.16",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_02-Mares-Janez_Kranjc.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "4",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            79,
+                            80,
+                            82,
+                            98,
+                            100,
+                            115,
+                            116,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            127,
+                            129,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            137,
+                            138,
+                            139,
+                            141,
+                            142,
+                            143,
+                            144,
+                            146,
+                            147,
+                            149,
+                            150,
+                            152,
+                            275,
+                            278,
+                            280,
+                            285
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/melissas-garden-indonesia-146208"
+                    },
+                    "text": {
+                        "description1": "One of the more stunning dives sites in raja ampat. The color of the coral garden will blow your mind. Near piaynemo island you will enjoy the marvelous view point.",
+                        "description2": "Stuning nursery for fishes, huge biodiversity of coral. You may encounter some shark,tuna,napoleon wrasse, and a variety of macro life."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_146208",
+                        "description2": "site_descr2_146208"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "452163",
+                        "name": "Fam Wall (Keruwo Channel)",
+                        "lat": "-0.5905",
+                        "lng": "130.2967",
+                        "loggedDives": "1367",
+                        "averageRating": "5",
+                        "loggedUsers": "1233",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "57",
+                        "averageVis": "17",
+                        "distanceToCenter": "262.66",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_04-Aqualung.jpg\/1000.jpg",
+                                    "copyright": "Aqualung"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            80,
+                            92,
+                            115,
+                            124,
+                            125,
+                            129,
+                            131,
+                            133,
+                            134
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/fam-wall-keruwo-channel-indonesia-452163"
+                    },
+                    "text": {
+                        "description1": "1 hour boat ride from Soul scuba divers dive centre, day trip with Piaynemo sightseings, wall dive covered with seafans and soft corals. Good for macro.",
+                        "description2": "Pygmy seahorse, black tip shark, spade fish, angelfish, hawkfish, midnight snappers, barracuda, angelfish, soldier fish,"
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_452163",
+                        "description2": "site_descr2_452163"
+                    }
+                }
+            },
+            {
+                "type": "singleEntry",
+                "ident": "divesite",
+                "data": {
+                    "properties": {
+                        "id": "443805",
+                        "name": "Batu Rufas",
+                        "lat": "-0.5659",
+                        "lng": "130.2845",
+                        "loggedDives": "1480",
+                        "averageRating": "5",
+                        "loggedUsers": "1286",
+                        "averageMaxDepth": "22",
+                        "averageDivetime": "58",
+                        "averageVis": "18",
+                        "distanceToCenter": "265.5",
+                        "images": {
+                            "type": "mediaCollection",
+                            "ident": "images",
+                            "elements": [
+                                {
+                                    "type": "image",
+                                    "thumbnail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/200.jpg",
+                                    "detail": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "huge": "https:\/\/cdn.divessi.com\/cached\/websiteFiles\/8_mydiveguide\/default-dive-sites-2023\/Dive_Site_06-Mares.jpg\/1000.jpg",
+                                    "copyright": "Mares"
+                                }
+                            ]
+                        },
+                        "dcAffiliated": "3",
+                        "level": [
+                            "beginner",
+                            "advanced"
+                        ],
+                        "country_iso3": "IDN",
+                        "wildlife": [
+                            112,
+                            116,
+                            121,
+                            122,
+                            123,
+                            126,
+                            130,
+                            132,
+                            134,
+                            141,
+                            146,
+                            275
+                        ],
+                        "URL": "\/mydiveguide\/divesite\/batu-rufas-indonesia-443805"
+                    },
+                    "text": {
+                        "description1": "Located near to the famous Piaynemo, this dive sites is included in our day trips and it is around 1h30 hours away from Soul scuba divers dive centre. Boat dive, starting from the bay, wall, swim through in 5 meters, ending in a wonderful coral garden.",
+                        "description2": "Makerels, fusiliers, napoleon wrasse, humphead parrotfish, sea fans, bluefin travelly, triggerfish, pufferfish..."
+                    },
+                    "_text_META": {
+                        "description1": "site_descr1_443805",
+                        "description2": "site_descr2_443805"
+                    }
+                }
+            }
+        ]
+    }
+}
