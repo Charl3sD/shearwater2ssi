@@ -21,15 +21,16 @@ This project is for **DEMONSTRATION AND EDUCATIONAL PURPOSES ONLY**. It is not a
 ## Requirements
 
 - Python 3.6+
-- Required packages:
-  ```bash
-  pip install qrcode pillow
-  ```
+- tkinter (usually included with Python)
+- Additional packages listed in `requirements.txt`
 
 ## Setup
 
 1. Clone or download this repository
-2. Install the required Python packages
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Add dive site JSON files to `ssi_dive_sites/` directory (see directory README for details)
 
 ## Usage
