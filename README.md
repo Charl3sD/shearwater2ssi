@@ -83,7 +83,7 @@ center;<Center ID>;name:<Center Name>, <Location>
 
 Example:
 ```
-center;750405;name:Infinity Divers, Roatan
+center;123456;name:Example Dive Center, Sample Location
 ```
 
 ### Finding Training Center IDs
@@ -109,13 +109,13 @@ sudo pacman -S qrencode
 #### Generate a validation QR code
 ```bash
 # Generate PNG file
-qrencode -o validation-CenterName.png "center;750405;name:Infinity Divers, Roatan"
+qrencode -o validation-CenterName.png "center;123456;name:Example Dive Center, Sample Location"
 
 # Generate with specific size
-qrencode -s 10 -o validation-CenterName.png "center;750405;name:Infinity Divers, Roatan"
+qrencode -s 10 -o validation-CenterName.png "center;123456;name:Example Dive Center, Sample Location"
 
 # Display in terminal (for testing)
-qrencode -t UTF8 "center;750405;name:Infinity Divers, Roatan"
+qrencode -t UTF8 "center;123456;name:Example Dive Center, Sample Location"
 ```
 
 Place generated validation QR codes in the `ssi_validations_qr_codes` folder to view them in the application.

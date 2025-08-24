@@ -11,7 +11,7 @@ center;<Center ID>;name:<Center Name>, <Location>
 
 Example:
 ```
-center;750405;name:Infinity Divers, Roatan
+center;123456;name:Example Dive Center, Sample Location
 ```
 
 ## Creating Validation QR Codes
@@ -25,13 +25,13 @@ brew install qrencode           # macOS
 sudo pacman -S qrencode        # Arch/Manjaro
 
 # Generate QR code
-qrencode -s 10 -o validation-RajaAmpat.png "center;750405;name:Infinity Divers, Roatan"
+qrencode -s 10 -o validation-ExampleCenter.png "center;123456;name:Example Dive Center, Sample Location"
 ```
 
 ### Method 2: Online QR Generator
 
 1. Visit any QR code generator website
-2. Enter the validation string (e.g., `center;750405;name:Infinity Divers, Roatan`)
+2. Enter the validation string (e.g., `center;123456;name:Example Dive Center, Sample Location`)
 3. Download as PNG
 4. Save to this directory
 
@@ -45,8 +45,8 @@ Visit https://www.divessi.com/en/locator/trainingcenters to search for:
 ## File Naming Convention
 
 Recommended format: `validation-<CenterName>.png`
-- Example: `validation-InfinityDivers.png`
-- Example: `validation-RajaAmpat.png`
+- Example: `validation-ExampleCenter.png`
+- Example: `validation-TestDiveShop.png`
 
 ## Viewing in Application
 
