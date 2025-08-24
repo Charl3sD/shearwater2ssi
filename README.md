@@ -2,6 +2,10 @@
 
 A Python tool that extracts dive information from Shearwater database files and generates QR codes compatible with the SSI mobile app.
 
+⚠️ **IMPORTANT: Please read the [DISCLAIMER](DISCLAIMER.md) before using this software.**
+
+This project is for **DEMONSTRATION AND EDUCATIONAL PURPOSES ONLY**. It is not affiliated with Shearwater Research Inc., SSI, or any diving organization.
+
 ## Features
 
 - Import dive data from Shearwater Cloud database exports (.db files)
@@ -138,4 +142,10 @@ Each directory contains its own README with detailed instructions.
 
 ## License
 
-This tool is provided as-is for personal use to facilitate dive log management between Shearwater and SSI platforms.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This software is provided for demonstration and educational purposes only. Please read the full [DISCLAIMER](DISCLAIMER.md) before use.
+
+**USE AT YOUR OWN RISK** - Always verify converted data and maintain proper dive logs according to your certification agency's requirements.

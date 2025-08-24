@@ -2,6 +2,10 @@
 """
 Shearwater to SSI QR Code Generator
 Extracts dive information from Shearwater database files and generates SSI-compatible QR codes
+
+DISCLAIMER: This software is for DEMONSTRATION AND EDUCATIONAL PURPOSES ONLY.
+Not affiliated with Shearwater Research Inc., SSI, or any diving organization.
+USE AT YOUR OWN RISK. See DISCLAIMER.md for full legal disclaimer.
 """
 
 import sqlite3
