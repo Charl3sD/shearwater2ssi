@@ -4,13 +4,15 @@ config.json
 # Claude AI files
 .claude/
 
-# QR code directories
-ssi_dives_qr_codes/
-ssi_validations_qr_codes/
+# QR code directories (but keep READMEs)
+ssi_dives_qr_codes/*.png
+ssi_dives_qr_codes/*.jpg
+ssi_validations_qr_codes/*.png
+ssi_validations_qr_codes/*.jpg
 
 # Database files
 *.db
-shearwater_databases/
+shearwater_databases/*.db
 
 # Python
 __pycache__/

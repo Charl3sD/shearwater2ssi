@@ -1,6 +1,6 @@
 # Shearwater to SSI QR Code Generator
 
-A Python tool that extracts dive information from Shearwater database files and generates QR codes compatible with the SSI (Scuba Schools International) mobile app.
+A Python tool that extracts dive information from Shearwater database files and generates QR codes compatible with the SSI mobile app.
 
 ## Features
 
@@ -72,7 +72,7 @@ The generated QR codes contain the following SSI-compatible data:
 
 ## Validation QR Codes
 
-The SSI app uses validation QR codes to verify dives at training centers. These QR codes contain the training center information.
+Validation QR codes contain training center information.
 
 ### QR Code Format
 
