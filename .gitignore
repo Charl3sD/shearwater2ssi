@@ -1,0 +1,47 @@
+# Configuration file (contains personal information)
+config.json
+
+# Claude AI files
+.claude/
+
+# QR code directories
+ssi_dives_qr_codes/
+ssi_validations_qr_codes/
+
+# Database files
+*.db
+shearwater_databases/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Screenshots
+Screenshot*.png
+screenshot*.png
